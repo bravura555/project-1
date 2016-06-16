@@ -1,0 +1,664 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>
+      Personal Details
+      &rsaquo; Development
+    </title>
+    <meta charset='utf-8'>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+    <meta content='Never more than one metre away from your device? Make sure you are covered for loss of your device and accidental damage.' name='description'>
+    <link href='/assets/schools/favicon.png' rel='shortcut icon'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='57x57'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='152x152'>
+    <!-- Schema.org markup for Google+ -->
+    <meta content='Development | Personal Details' itemprop='name'>
+    <meta content='Never more than one metre away from your device? Make sure you are covered for loss of your device and accidental damage.' itemprop='description'>
+    <meta content='https://localhost:3000/images/schools/social.png' itemprop='image'>
+    <!-- Twitter Card data -->
+    <meta content='product' name='twitter:card'>
+    <meta content='@device_cover' name='twitter:site'>
+    <meta content='Development | Personal Details' name='twitter:title'>
+    <meta content='Never more than one metre away from your device? Make sure you are covered for loss of your device and accidental damage.' name='twitter:description'>
+    <meta content='https://localhost:3000/images/schools/social.png' name='twitter:image'>
+    <meta content='$8' name='twitter:data1'>
+    <meta content='Price' name='twitter:label1'>
+    <!-- Open Graph data -->
+    <meta content='Development | Personal Details' property='og:title'>
+    <meta content='article' property='og:type'>
+    <meta content='https://localhost:3000' property='og:url'>
+    <meta content='https://localhost:3000/images/schools/social.png' property='og:image'>
+    <meta content='Never more than one metre away from your device? Make sure you are covered for loss of your device and accidental damage.' property='og:description'>
+    <meta content='Development' property='og:site_name'>
+    <meta content='8.00' property='og:price:amount'>
+    <meta content='AUD' property='og:price:currency'>
+    <link href='https://fast.fonts.net/cssapi/814a6d97-3b30-48a3-995a-1bb0161ed358.css' rel='stylesheet' type='text/css'>
+    <link href="/assets/application.css?body=1" media="screen,projection" rel="stylesheet" />
+    <link href="/assets/brands/schools/screen.css?body=1" media="screen,projection" rel="stylesheet" />
+    <link href="/assets/brands/schools/print.css?body=1" media="print" rel="stylesheet" />
+    <script>
+      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
+      analytics.load("peedC09BKtQsOsY476REbWCd1CNMMiKF");
+      analytics.page()
+      }}();
+    </script>
+    <meta content="authenticity_token" name="csrf-param" />
+    <meta content="UT/CGGNiMxgrAhiT/FJQ/D3KP4qmGtzhvrroO+Gl4ec=" name="csrf-token" />
+  </head>
+  <body>
+    <header class='purchase navbar navbar-fixed-top' role='banner'>
+      <div class='container'>
+        <div class='navigation'>
+          <div class='navbar-header'>
+            <button class='navbar-toggle' data-target='.bs-navbar-collapse' data-toggle='collapse' type='button'>
+              <span class='sr-only'>Toggle navigation</span>
+              <span class='icon-bar'></span>
+              <span class='icon-bar'></span>
+              <span class='icon-bar'></span>
+            </button>
+            <a class='navbar-brand' href='/' title='Development'>
+              <img alt="Development" class="logo" src="/assets/schools/logo-hat.png" />
+            </a>
+          </div>
+          <nav class='collapse navbar-collapse bs-navbar-collapse' id='nav' role='navigation'>
+            <ul class='nav navbar-nav pull-right'>
+              <li>
+                <a href='/' title='back to home'>Back to home</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <section class='purchase' id='content'>
+      <div class='quote-details'>
+        <div class='edit-quote'>
+          <section class='update-quote'>
+            <div class='steps'>
+              <ul>
+                <li class='done'>
+                  <a href='/get-a-quote' title='Get a quote'>
+                    <span aria-hidden='true' class='glyphicon glyphicon-refresh'></span>
+                    <span class='hidden-xs'>Edit your quote</span>
+                  </a>
+                </li>
+                <li class='current'>
+                  <a href='#' title='Your details'>
+                    <span aria-hidden='true' class='glyphicon glyphicon-user'></span>
+                    <span class='hidden-xs'>Your details</span>
+                  </a>
+                </li>
+                <li>
+                  <a href='#' title='Confirm and pay'>
+                    <span aria-hidden='true' class='glyphicon glyphicon-credit-card'></span>
+                    <span class='hidden-xs'>Confirm &amp; pay</span>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class='quoted'>
+              <div class='yourquote'>
+                <p>
+                  Your
+                  <span class='price'>$8.00</span>
+                  plan will be billed
+                  each
+                  <span class='period'>month</span>
+                  <a class='btn btn-xs' data-toggle='modal' href='#benefits' id='showbenefits' title='View the coverage'>
+                    view cover
+                  </a>
+                </p>
+                <div class='benefits' style='display:none;'>
+                  <h6>
+                    Your
+                    Mini
+                    plan has...
+                  </h6>
+                  <ul>
+                    <li>
+                      Added theft coverage for
+                      $2 per month
+                    </li>
+                    <li>
+                      Total claim and device value of
+                      $500
+                    </li>
+                    <li>
+                      Excess per claim of
+                      $100
+                    </li>
+                  </ul>
+                  <ol>
+                    <li>
+                      <strong>Accidental damage</strong>
+                      <br>
+                      We all drop things occassionally and sometimes it's even near water. You're covered for this kind of accidental damage.
+                    </li>
+                    <li>
+                      <strong>Losing your device</strong>
+                      <br>
+                      If you (unintentionally of course) happen to lose your phone we can organise a replacement.
+                    </li>
+                    <li>
+                      <strong>Excess</strong>
+                      <br>
+                      Excess is incurred per claim and limited to three (3) per year
+                    </li>
+                    <li>
+                      <strong>Accessories are covered</strong>
+                      <br>
+                      Includes the replacement of accidentally damaged batteries, chargers, ear pieces or carry cases.
+                    </li>
+                    <li>
+                      <strong>Unauthorised calls</strong>
+                      <br>
+                      If your phone is stolen or lost you're covered for any unauthorised calls made on your phone provided the loss has been reported within 24 hours.
+                    </li>
+                    <li>
+                      <strong>Unauthorised calls</strong>
+                      <br>
+                      Unauthorised calls made on your phone
+                    </li>
+                    <li>
+                      <strong>Worldwide cover</strong>
+                      <br>
+                      Cover is extended to include the use of the device anywhere in the world for up to a maximum of 60 consecutive days of being outside of Australia or New Zealand, in any single 12-month period.
+                    </li>
+                    <li>
+                      <strong>Accidental Injury or Sickness</strong>
+                      <br>
+                      If something happens to prevent you from working we'll pay a lump sum towards your mobile bill. This benefit is a little tricky so check what the policy wording has to say about it.
+                    </li>
+                    <li>
+                      <strong>*Additional theft cover</strong>
+                      <br>
+                      For an additional monthly fee (starting at $2 per month) you can be covered if anyone steals your device.
+                    </li>
+                  </ol>
+                </div>
+              </div>
+            </div>
+            <form accept-charset="UTF-8" action="/quotes" class="simple_form custom" id="quoting" method="post" novalidate="novalidate"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /><input name="_method" type="hidden" value="patch" /><input name="authenticity_token" type="hidden" value="UT/CGGNiMxgrAhiT/FJQ/D3KP4qmGtzhvrroO+Gl4ec=" /></div>  <div class='upgrade'>
+                <input name="quote[product_id]" type="hidden" value="1" /><input data-off-text="NO" data-on-text="YES" data-size="mini" id="quote_product_id" name="quote[product_id]" type="checkbox" value="2" />
+                <label for='Mini Plus'>
+                  Add
+                  <a data-toggle='modal' href='#theftcover'>theft cover</a>
+                  for $2.00 per month
+                </label>
+              </div>
+              <div class='details'>
+                <div class='floating-label-form-group form-group'>
+                  <label for='quote_device_purchase_date'>
+                    When did you purchase your device?
+                    <a data-toggle='modal' href='#months'>
+                      Why only 3 months?
+                      <span aria-hidden='true' class='glyphicon glyphicon-question-sign'></span>
+                    </a>
+                  </label>
+                  <div class="control-group string optional quote_device_purchase_date"><div class="controls"><input class="string optional form-control datepicker" id="quote_device_purchase_date" name="quote[device_purchase_date]" type="text" /></div></div>
+                </div>
+                <div class='floating-label-form-group form-group'>
+                  <label for='quote_device_purchase_date'>
+                    What kind of
+                    <strong>portable</strong>
+                    device are you insuring?
+                    <a data-toggle='modal' href='#listofdevices'>
+                      Need a list of devices?
+                      <span aria-hidden='true' class='glyphicon glyphicon-question-sign'></span>
+                    </a>
+                  </label>
+                  <div class="control-group string optional quote_cust_device"><div class="controls"><input class="string optional form-control" id="quote_cust_device" name="quote[cust_device]" type="text" /></div></div>
+                </div>
+                <div class='floating-label-form-group form-group'>
+                  <label for='quote_imei_serial'>
+                    IMEI or Serial of your device
+                    <a data-toggle='modal' href='#iemi'>
+                      Finding your IMEI or serial number
+                      <span aria-hidden='true' class='glyphicon glyphicon-question-sign'></span>
+                    </a>
+                  </label>
+                  <div class="control-group string optional quote_imei_serial"><div class="controls"><input class="string optional form-control" id="quote_imei_serial" name="quote[imei_serial]" type="text" /></div></div>
+                </div>
+                <div class='floating-label-form-group form-group name'>
+                  <div class="control-group string optional quote_cust_name"><label class="string optional control-label" for="quote_cust_name">Your full name</label><div class="controls"><input class="string optional form-control" id="quote_cust_name" name="quote[cust_name]" type="text" /></div></div>
+                </div>
+                <div class='floating-label-form-group form-group'>
+                  <div class="control-group email optional quote_cust_email"><label class="email optional control-label" for="quote_cust_email">Your email address</label><div class="controls"><input class="string email optional form-control" id="quote_cust_email" name="quote[cust_email]" type="email" /></div></div>
+                </div>
+                <div class='floating-label-form-group form-group'>
+                  <div class="control-group tel optional quote_cust_phone"><label class="tel optional control-label" for="quote_cust_phone">Your phone number</label><div class="controls"><input class="string tel optional form-control" id="quote_cust_phone" name="quote[cust_phone]" type="tel" /></div></div>
+                </div>
+                <div class='floating-label-form-group form-group'>
+                  <div class="control-group string optional quote_cust_post_code"><label class="string optional control-label" for="quote_cust_post_code">Your postcode</label><div class="controls"><input class="string optional form-control" id="quote_cust_post_code" inputmode="numeric" min="0" name="quote[cust_post_code]" pattern="[0-9]*" type="text" /></div></div>
+                </div>
+                <div class='actions form-group'>
+                  <p>
+                    <small>
+                      By continuing you acknowledge that you understand your
+                      <a data-toggle='modal' href='#disclosure'>duty of disclosure,</a>
+                      you're between 18 &amp; 60 years of age and an Australian resident.
+                    </small>
+                  </p>
+                  <input class="btn btn-success btn-lg" name="commit" type="submit" value="Finalise and make payment" />
+                </div>
+              </div>
+            </form>
+          </section>
+          <img alt="14 day money back guarrantee" class="pull-right stamp" src="/assets/schools/14-day-stamp.png" />
+        </div>
+      </div>
+      <div class='modal fade' id='months'>
+        <div class='modal-dialog'>
+          <div class='modal-content'>
+            <div class='modal-header'>
+              <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+                <span aria-hidden='true'>&times;</span>
+                <span class='sr-only'>Close</span>
+              </button>
+              <h4>Why only three (3) months old?</h4>
+            </div>
+            <div class='modal-body'>
+              <p>
+                The policy defines
+                <strong>Portable Electronic Device</strong>
+                to be a mobile phone, laptop, tablet, portable game device such as PSP, or Kindle which, in each case, is no older than three (3) months from its original Date of Purchase.
+              </p>
+              <p>
+                We have this constraint as we can't qualify the condition of your portable device before we insure the device.
+              </p>
+              <p>If your device is more than 3 months old register it here and we'll be in touch.</p>
+              <a class='btn typeform-share btnmain' data-mode='1' href='https://wti.typeform.com/to/NRUPT8' target='_blank'>
+                Register my device
+              </a>
+              <script>
+                (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()
+              </script>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='modal fade' id='listofdevices'>
+        <div class='modal-dialog'>
+          <div class='modal-content'>
+            <div class='modal-header'>
+              <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+                <span aria-hidden='true'>&times;</span>
+                <span class='sr-only'>Close</span>
+              </button>
+              <h4>How do I find my IEMI or serial number?</h4>
+            </div>
+            <div class='modal-body'>
+              <p>
+                The policy defines
+                <strong>Portable Electronic Device</strong>
+                to be a mobile phone, laptop, tablet, portable game device such as PSP, or Kindle which, in each case, is no older than three (3) months from its original Date of Purchase.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='modal fade' id='iemi'>
+        <div class='modal-dialog'>
+          <div class='modal-content'>
+            <div class='modal-header'>
+              <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+                <span aria-hidden='true'>&times;</span>
+                <span class='sr-only'>Close</span>
+              </button>
+              <h4>How do I find my IEMI or serial number?</h4>
+            </div>
+            <div class='modal-body'>
+              <p>
+                <strong>Smart phones</strong>
+                <br>
+                To find your IEMI number type
+                <strong>*#06#</strong>
+                into your key pad.
+              </p>
+              <p>
+                <strong>Apple devices</strong>
+                <br>
+                Go to Settings &rsaquo; General &rsaquo; About and scroll down.
+              </p>
+              <p>
+                <strong>Android devices</strong>
+                <br>
+                Go to System settings &rsaquo; About device &rsaquo; Status.
+              </p>
+              <p>
+                <strong>All other devices</strong>
+                <br>
+                Look under the battery compartment of your device.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='modal fade' id='theftcover'>
+        <div class='modal-dialog'>
+          <div class='modal-dialog'></div>
+          <div class='modal-content'>
+            <div class='modal-header'>
+              <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+                <span aria-hidden='true'>&times;</span>
+                <span class='sr-only'>Close</span>
+              </button>
+              <h3>Theft cover</h3>
+            </div>
+            <div class='modal-body'>
+              For an additional monthly fee (starting at $2 per month) you can be covered if anyone
+              <a href='/policy#additonal-theft-benefit' target='_new' title='Additional theft cover'>steals your device.</a>
+              This is handy for anyone who lives, works or plays in interesting town.
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class='modal fade' id='benefits'>
+        <div class='modal-dialog'>
+          <div class='modal-dialog'></div>
+          <div class='modal-content'>
+            <div class='modal-header'>
+              <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+                <span aria-hidden='true'>&times;</span>
+                <span class='sr-only'>Close</span>
+              </button>
+              <h3>
+                Your
+                Mini
+                plan has the following benefits...
+              </h3>
+            </div>
+            <div class='modal-body'>
+              <div class='benefits'>
+                <ul>
+                  <li>
+                    Added theft coverage for
+                    $2 per month
+                  </li>
+                  <li>
+                    Total claim and device value of
+                    $500
+                  </li>
+                  <li>
+                    Excess per claim of
+                    $100
+                  </li>
+                </ul>
+                <ol>
+                  <li>
+                    <strong>Accidental damage</strong>
+                    <br>
+                    We all drop things occassionally and sometimes it's even near water. You're covered for this kind of accidental damage.
+                  </li>
+                  <li>
+                    <strong>Losing your device</strong>
+                    <br>
+                    If you (unintentionally of course) happen to lose your phone we can organise a replacement.
+                  </li>
+                  <li>
+                    <strong>Excess</strong>
+                    <br>
+                    Excess is incurred per claim and limited to three (3) per year
+                  </li>
+                  <li>
+                    <strong>Accessories are covered</strong>
+                    <br>
+                    Includes the replacement of accidentally damaged batteries, chargers, ear pieces or carry cases.
+                  </li>
+                  <li>
+                    <strong>Unauthorised calls</strong>
+                    <br>
+                    If your phone is stolen or lost you're covered for any unauthorised calls made on your phone provided the loss has been reported within 24 hours.
+                  </li>
+                  <li>
+                    <strong>Unauthorised calls</strong>
+                    <br>
+                    Unauthorised calls made on your phone
+                  </li>
+                  <li>
+                    <strong>Worldwide cover</strong>
+                    <br>
+                    Cover is extended to include the use of the device anywhere in the world for up to a maximum of 60 consecutive days of being outside of Australia or New Zealand, in any single 12-month period.
+                  </li>
+                  <li>
+                    <strong>Accidental Injury or Sickness</strong>
+                    <br>
+                    If something happens to prevent you from working we'll pay a lump sum towards your mobile bill. This benefit is a little tricky so check what the policy wording has to say about it.
+                  </li>
+                  <li>
+                    <strong>*Additional theft cover</strong>
+                    <br>
+                    For an additional monthly fee (starting at $2 per month) you can be covered if anyone steals your device.
+                  </li>
+                </ol>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class='about'>
+      <div class='contacts'>
+        <div class='important-contacts'>
+          <div class='underwriter'>
+            <h6>Underwritten by</h6>
+            <p>
+              <a href='http://www.acegroup.com' title='Ace Group'>
+                <img alt="ACE Group" src="/assets/ace-group.png" />
+              </a>
+            </p>
+            <p>
+              <a href='http://instantssl.com/ssl-certificate.html' style='border:none;'>
+                <img alt="SSL Certificate" src="/assets/comodo_secure_113x59_transp.png" />
+              </a>
+            </p>
+            <p>
+              <a href='https://www.braintreegateway.com/merchants/htwrj7hk9vfwnvpc/verified' style='border:none;'>
+                <img alt='Braintree Verified' src='https://braintree-badges.s3.amazonaws.com/07.png' style='border:none'>
+              </a>
+            </p>
+          </div>
+          <div class='contact'>
+            <h6>Contact us</h6>
+            <ul>
+              <li>
+                1300 788 463
+              </li>
+              <li>
+                <a href='mailto:help@devicecover.com'>help@devicecover.com.au</a>
+              </li>
+            </ul>
+          </div>
+          <div class='important'>
+            <h6>Important documents</h6>
+            <ul>
+              <li>
+                <a data-toggle='modal' href='#terms'>Privacy Policy</a>
+              </li>
+              <li>
+                <a data-toggle='modal' href='#refunds'>Refunds Policy</a>
+              </li>
+              <li>
+                <a href='/policy'>Policy Wording</a>
+              </li>
+              <li>
+                <a href='/complaints-procedure'>Complaints</a>
+              </li>
+            </ul>
+          </div>
+          <div class='claim'>
+            <h6>Making a claim</h6>
+            <p>
+              <strong>Get in touch</strong>
+              <br>
+              1300 788 463
+            </p>
+            <ul>
+              <li>
+                <a href='https://devicecover.onlineclaims.com.au/' title='Online Claims'>
+                  Make a claim
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <footer class='terms'>
+          <div class='disclaimer'>
+            <p>
+              Development Insurance is issued and underwritten by ACE Insurance Limited (ABN 23 001 642 020; AFSL 239687) and distributed by  Lodestar Insurance (ABN 41 165 643 783; Authorised Representative Number 445843). This website provides general information only without taking into account your objectives, financial situation or needs. Please read the applicable
+              <a href='/policy'>Product Disclosure Statement (PDS)</a>
+              and
+              <a href='/policy'>Financial Serices Guide (FSG)</a>
+              or by calling 1300 788 463 before deciding to buy Development insurance. Terms, conditions and exclusions apply.
+            </p>
+          </div>
+        </footer>
+      </div>
+    </footer>
+    <div class='modal fade' id='terms'>
+      <div class='modal-dialog'>
+        <div class='modal-dialog'></div>
+        <div class='modal-content'>
+          <div class='modal-header'>
+            <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+              <span aria-hidden='true'>&times;</span>
+              <span class='sr-only'>Close</span>
+            </button>
+            <h3>Privacy policy</h3>
+          </div>
+          <div class='modal-body'>
+            <p>The privacy of your personal information is very important to Lodestar Insurance Pty Ltd ( 'us', 'our' or 'we').</p>
+            <p>This Privacy Policy details how Lodestar collects, uses and protects an individual’s personal information in accordance with our obligations under the Privacy Act 1988 (Cth) (“Privacy Act”).</p>
+            <p>The terms of our Privacy Policy may change from time to time. The current terms will be displayed on the website.</p>
+            <h3>About the Privacy Act</h3>
+            <p>The Federal Government's Privacy Act regulates, via the Australian Privacy Principles, the way private sector organizations can collect, use, keep, secure and disclose personal information.</p>
+            <p>Personal information includes information that can be used to identify an individual e.g name, address, telephone number, age, and details about your devices.</p>
+            <p>The aim of the law is to ensure that private organisations that hold personal information about people, handle that information responsibly. It also gives people some control over the way information about them is handled. For example, it gives individuals the right to know what personal information an organization holds about them and a right to correct that information if it is wrong.</p>
+            <h3>Information Collected</h3>
+            <p>We collect personal information from you that is relevant to providing products and services to you. Where possible, we collect it directly from you.</p>
+            <p>We will only do so with your consent, or otherwise in accordance with the Privacy Act. That consent may be express, or implied, such as when you have been informed verbally, or when you continue a telephone call with our staff, after you have heard a recorded message.</p>
+            <h3>Online Privacy</h3>
+            <p>We may collect some personally identifiable information about you at different times depending on how you choose to access our website.</p>
+            <p>If you submit your e-mail address for a request it will be used to complete that request and send a reply. If you submit your email address for the purpose of purchasing membership on-line, we may also use it to provide you with specific information regarding your merbership products.</p>
+            <p>We may request your e-mail address for the inclusion into a mailing list. If you choose to submit your e-mail address an option to remove this address from our database will be offered to you via e-mail correspondence. All opt-in e-mails sent to the mailing list will comply with the Australian Spam Act.</p>
+            <h3>Use of Cookies</h3>
+            <p>From time to time, we may use data collection devices such as 'cookies' in conjunction with our website. Cookies are commonly used on the internet. They are a small file placed onto a computer by a server. A cookie can later be identified by a server. We may use both 'persistent' and 'session cookies'. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. Although our marketing company manages the information coming from our site on our behalf, we control how that data may and may not be used. Any information that is collected in this way is used in an aggregated form, we do not use it to identify you as an individual.</p>
+            <p>We may use cookies for various purposes such as:</p>
+            <ul>
+              <li>to provide you with better and more customised service and a more effective website</li>
+              <li>collecting anonymous statistical information on things such as how many visitors our sites receive, how those visitors use the sites and were they came from.</li>
+              <li>If you wish, you can configure your browser so it does not accept cookies, but this may affect the functionality of the website.</li>
+            </ul>
+            <h3>Use of Information</h3>
+            <p>We use the personal information we collect to provide quotations and to issue policies. We also use that information to administer your policy, to process any claims you may have and to enhance our relationship with you. In addition we may use the information to provide you with updates of our products and services, and products and services provided by affiliated companies.</p>
+            <h3>Disclosure to Other Parties</h3>
+            <p>The personal information that we collect from you may be disclosed to other parties which are involved with the provision of our products and services to you. Such parties include your repairer and any roadside services providers such as tow truck operators or locksmiths. We may also obtain information about you from some of the above parties. Where you provide us with personal information about other people you must have their consent to do this, and to provide it on their behalf. If not, you must tell us.</p>
+            <p>Personal information may also be provided to our affiliated companies to enable them to offer products and services directly to you.</p>
+            <p>We will also disclose your personal information where the disclosure is required or authorised by or under law. As an example, we may disclose information to government agencies.</p>
+            <p>Any third parties we provide information to, can use or disclose personal information provided to them, only for the specific purpose for which it was provided.</p>
+            <h3>Access to Personal Information</h3>
+            <p>You can request access to the personal information we hold about you. Access will not be denied unless there are exceptional circumstances as allowed for under the Privacy Act. For example, where we are involved in legal proceedings or where the request is frivolous. We may charge a fee for access and if we do, we will advise you of the fee prior to proceeding with the request.</p>
+            <h3>Accuracy of Information</h3>
+            <p>We will take reasonable measures to ensure that the personal information we hold about you is accurate and up to date. If you believe your personal information is not accurate and up to date, please inform us. We will promptly update any information that is incorrect.</p>
+            <h3>Information Security</h3>
+            <p>We will take reasonable precautions to ensure that the personal information that we have about you is protected against any unlawful use or access and is kept safe and secure.</p>
+            <p>While we undertake reasonable steps to protect your personal information, no guarantee can be given that information sent over the internet is always 100% secure. Sending and receiving information over the internet is at the user's own risk, however we will take all reasonable steps to ensure your data security once we receive it.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='modal fade' id='refunds'>
+      <div class='modal-dialog'>
+        <div class='modal-content'>
+          <div class='modal-header'>
+            <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+              <span aria-hidden='true'>&times;</span>
+              <span class='sr-only'>Close</span>
+            </button>
+            <h3>Refunds policy</h3>
+          </div>
+          <div class='modal-body'><p>If you are not 100% satisfied with your purchase, within 14 days from the purchase date, we will fully refund the cost of your order.</p></div>
+        </div>
+      </div>
+    </div>
+    <script src="/assets/jquery.js?body=1"></script>
+    <script src="/assets/braintree.js?body=1"></script>
+    <script src="/assets/bootstrap/affix.js?body=1"></script>
+    <script src="/assets/bootstrap/alert.js?body=1"></script>
+    <script src="/assets/bootstrap/button.js?body=1"></script>
+    <script src="/assets/bootstrap/carousel.js?body=1"></script>
+    <script src="/assets/bootstrap/collapse.js?body=1"></script>
+    <script src="/assets/bootstrap/dropdown.js?body=1"></script>
+    <script src="/assets/bootstrap/tab.js?body=1"></script>
+    <script src="/assets/bootstrap/transition.js?body=1"></script>
+    <script src="/assets/bootstrap/scrollspy.js?body=1"></script>
+    <script src="/assets/bootstrap/modal.js?body=1"></script>
+    <script src="/assets/bootstrap/tooltip.js?body=1"></script>
+    <script src="/assets/bootstrap/popover.js?body=1"></script>
+    <script src="/assets/bootstrap-sprockets.js?body=1"></script>
+    <script src="/assets/typed.js?body=1"></script>
+    <script src="/assets/picker.js?body=1"></script>
+    <script src="/assets/picker.date.js?body=1"></script>
+    <script src="/assets/datepicking.js?body=1"></script>
+    <script src="/assets/floating-labels.js?body=1"></script>
+    <script src="/assets/bootstrap-switch.js?body=1"></script>
+    <script src="/assets/switch.js?body=1"></script>
+    <script src="/assets/jquery.nouislider.min.js?body=1"></script>
+    <script src="/assets/bootstrapValidator.js?body=1"></script>
+    <script src="/assets/bootstrap-validate-details.js?body=1"></script>
+    <script src="/assets/bootstrap-validate-sentence.js?body=1"></script>
+    <script src="/assets/blockui.min.js?body=1"></script>
+    <script src="/assets/application.js?body=1"></script>
+    <script>
+      var intercomSettings = {
+        app_id: 'sfusmsgk'
+      };
+      (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/sfusmsgk';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+    </script>
+    <div class='modal fade' id='disclosure'>
+      <div class='modal-dialog'>
+        <div class='modal-dialog'></div>
+        <div class='modal-content'>
+          <div class='modal-header'>
+            <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+              <span aria-hidden='true'>&times;</span>
+              <span class='sr-only'>Close</span>
+            </button>
+            <h3>Duty of disclosure</h3>
+          </div>
+          <div class='modal-body'>
+            <p>
+              <strong>What You must tell Us</strong>
+              <br>
+              We will ask You various questions when You apply for cover. When You answer those questions, You must be honest and You have a duty under law to tell Us anything known to You, and which a reasonable person in the circumstances, would include in answer to the question. We will use the answers in deciding whether to insure You, and anyone else to be insured under the Policy, and on what terms. You have this same duty to disclose those matters to Us before You renew, extend, vary or reinstate Your Policy.
+            </p>
+            <p>
+              <strong>Who needs to tell Us</strong>
+              <br>
+              It is important that You understand You are answering Our questions in this way for You (including any Spouse/Partner covered by the Policy).
+            </p>
+            <p>
+              <strong>If You do not tell us</strong>
+              <br>
+              If You do not answer Our questions in this way, We may reduce Our liability under contract in respect of a claim or refuse to pay a claim, or cancel the Policy. If You answer Our questions fraudulently, We may refuse to pay a claim and treat the Policy as never having commenced.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      $('.bootstrap-switch').on('switchChange.bootstrapSwitch', function (event, state) {
+        if (state == true) {
+          $(".price").html('$10.00').addClass("upgraded");
+          $(".plan").html('Mini Plus').addClass("upgraded");
+        } else {
+          $(".price").html('$8.00').removeClass("upgraded");
+          $(".plan").html('Mini').removeClass("upgraded");
+        }
+      });
+    </script>
+  </body>
+</html>
