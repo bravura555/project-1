@@ -1,0 +1,1192 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <title>
+      Policy Disclosure Document
+      &rsaquo; Development
+    </title>
+    <meta charset='utf-8'>
+    <meta content='width=device-width, initial-scale=1.0' name='viewport'>
+    <meta content='Never more than one metre away from your device? Make sure you are covered for loss of your device and accidental damage.' name='description'>
+    <link href='/assets/schools/favicon.png' rel='shortcut icon'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='57x57'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+    <link href='/assets/schools/favicon.png' rel='apple-touch-icon-precomposed' sizes='152x152'>
+    <!-- Schema.org markup for Google+ -->
+    <meta content='Development | Policy Disclosure Document' itemprop='name'>
+    <meta content='Never more than one metre away from your device? Make sure you are covered for loss of your device and accidental damage.' itemprop='description'>
+    <meta content='https://localhost:3000/images/schools/social.png' itemprop='image'>
+    <!-- Twitter Card data -->
+    <meta content='product' name='twitter:card'>
+    <meta content='@device_cover' name='twitter:site'>
+    <meta content='Development | Policy Disclosure Document' name='twitter:title'>
+    <meta content='Never more than one metre away from your device? Make sure you are covered for loss of your device and accidental damage.' name='twitter:description'>
+    <meta content='https://localhost:3000/images/schools/social.png' name='twitter:image'>
+    <meta content='$8' name='twitter:data1'>
+    <meta content='Price' name='twitter:label1'>
+    <!-- Open Graph data -->
+    <meta content='Development | Policy Disclosure Document' property='og:title'>
+    <meta content='article' property='og:type'>
+    <meta content='https://localhost:3000' property='og:url'>
+    <meta content='https://localhost:3000/images/schools/social.png' property='og:image'>
+    <meta content='Never more than one metre away from your device? Make sure you are covered for loss of your device and accidental damage.' property='og:description'>
+    <meta content='Development' property='og:site_name'>
+    <meta content='8.00' property='og:price:amount'>
+    <meta content='AUD' property='og:price:currency'>
+    <link href='https://fast.fonts.net/cssapi/814a6d97-3b30-48a3-995a-1bb0161ed358.css' rel='stylesheet' type='text/css'>
+    <link href="/assets/application.css?body=1" media="screen,projection" rel="stylesheet" />
+    <link href="/assets/brands/schools/screen.css?body=1" media="screen,projection" rel="stylesheet" />
+    <link href="/assets/brands/schools/print.css?body=1" media="print" rel="stylesheet" />
+    <script>
+      !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
+      analytics.load("peedC09BKtQsOsY476REbWCd1CNMMiKF");
+      analytics.page()
+      }}();
+    </script>
+    <meta content="authenticity_token" name="csrf-param" />
+    <meta content="UT/CGGNiMxgrAhiT/FJQ/D3KP4qmGtzhvrroO+Gl4ec=" name="csrf-token" />
+  </head>
+  <body class='pages pages-show policy'>
+    <header class='navbar navbar-fixed-top' role='banner'>
+      <div class='container'>
+        <div class='navigation'>
+          <div class='navbar-header'>
+            <button class='navbar-toggle' data-target='.bs-navbar-collapse' data-toggle='collapse' type='button'>
+              <span class='sr-only'>Toggle navigation</span>
+              <span class='icon-bar'></span>
+              <span class='icon-bar'></span>
+              <span class='icon-bar'></span>
+            </button>
+            <a class='navbar-brand' href='/' title='Development'>
+              <img alt="Development" class="logowide" src="/assets/schools/logo-wide.png" />
+              <!-- %span #{BrandSettings.brand_name} -->
+            </a>
+          </div>
+          <nav class='collapse navbar-collapse bs-navbar-collapse' id='nav' role='navigation'>
+            <ul class='nav navbar-nav underwriting'>
+              <li class='home'>
+                <a href='/' title='Home'>Home</a>
+              </li>
+              <li class='quote'>
+                <a href='/get-a-quote' title='Get a quote'>Get a quote</a>
+              </li>
+              <li class='whatscovered'>
+                <a href='/whats-covered' title="What's covered">What's covered</a>
+              </li>
+              <li class='claim'>
+                <a href='/how-to-claim' title='How to claim'>How to claim</a>
+              </li>
+              <li><a href="/customers/sign_in">Sign in</a></li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <section id='content'>
+      <div id='policy-wording'>
+        <div class='full-wording'>
+          <div class='wording-nav'>
+            <div class='pdsnav'>
+              <ul class='pds'>
+                <li class='top'>
+                  <a href='#content'>Policy Disclosure Statement</a>
+                </li>
+                <li>
+                  <a href='#about'>About us</a>
+                </li>
+                <li>
+                  <a href='#contact'>Who can I contact?</a>
+                </li>
+                <li>
+                  <a href='#about-insurer'>About the insurer</a>
+                </li>
+                <li>
+                  <a href='#about-this-doc'>About this document</a>
+                </li>
+                <li>
+                  <a href='#disclosure'>Your duty of disclosure</a>
+                </li>
+                <li>
+                  <a href='#words-special'>Words with special meanings</a>
+                </li>
+                <li>
+                  <a href='#definitions'>Definitions</a>
+                </li>
+                <li>
+                  <a href='#selecting-cover'>Selecting your cover</a>
+                </li>
+                <li>
+                  <a href='#benefits'>Benefits &amp; Premiums</a>
+                </li>
+                <li>
+                  <a href='#benefits'>Summary of Benefits</a>
+                </li>
+                <li>
+                  <a href='#general'>General conditions</a>
+                </li>
+                <li>
+                  <a href='#exclusions'>Exclusions</a>
+                </li>
+                <li>
+                  <a href='#cooling-off'>Cooling off period</a>
+                </li>
+                <li>
+                  <a href='#cancellation'>Cancellation of Your Policy</a>
+                </li>
+                <li>
+                  <a href='#claims'>Claims</a>
+                </li>
+                <li>
+                  <a href='#privacy'>Privacy Statement</a>
+                </li>
+                <li>
+                  <a href='#complaints'>Complaints and Dispute Resolution</a>
+                </li>
+                <li>
+                  <a href='#compensation'>Financial Claims Scheme</a>
+                </li>
+                <li>
+                  <a href='#updating'>Updating Our PDS</a>
+                </li>
+              </ul>
+              <ul class='fsg'>
+                <li class='top'>
+                  <a href='#fsg'>Financial Services Guide</a>
+                </li>
+                <li>
+                  <a href='#about-ace'>About ACE</a>
+                </li>
+                <li>
+                  <a href='#about-us'>About us</a>
+                </li>
+                <li>
+                  <a href='#services'>How ACE provides its services</a>
+                </li>
+                <li>
+                  <a href='#lodestar'>How Lodestar provides its services</a>
+                </li>
+                <li>
+                  <a href='#lodestar-paid'>How Lodestar is paid for its services</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class='wording'>
+            <h2>
+              Combined Policy Wording and Product Disclosure Statement
+              <small>(PDS)</small>
+              and Financial Services Guide
+              <small>(FSG)</small>
+            </h2>
+            <p>
+              <small>
+                <strong>Prepared on 1st April 2015</strong>
+                <br>
+                Any general advice that may be contained within this Policy Wording and Product Disclosure Statement (PDS) or accompanying material doesn’t take into account Your individual objectives, financial situation or needs. You need to decide if the limits, type and level of cover are appropriate for You.
+              </small>
+            </p>
+            <p class='buttons'>
+              <a class='btn btn-print' href='javascript:window.print()' title='Print this page'>Print this page</a>
+              or
+              <a class='btn btn-pdf' href='/pds/device-cover-pds-1apr15.pdf' title='Download the PDF version'>Download the PDF version</a>
+            </p>
+            <a class='backtop' href='#content' id='about'>back to top</a>
+            <h3>About us</h3>
+            <h4>The team behind DeviceCover</h4>
+            <p>We at Lodestar Insurance Pty Limited (Lodestar) are geeks...and we love our devices. Unfortunately, we also drop them a lot. That’s why we’ve partnered with ACE Insurance Limited (ACE) to develop and offer this insurance. We have been developing usable products for our customers for the past ten years.</p>
+            <p>The team at DeviceCover approach insurance like you, as a customer. Wherever possible we aim to simplify the entire experience to ensure you understand your coverage and our products.</p>
+            <h4>What is device insurance?</h4>
+            <p>DeviceCover provides cover for the things you might expect, such as accidental damage to your Equipment, and loss or theft of your Equipment, as well as cover for damage to or theft of your Accessories, and even cover for unauthorised calls made from your Equipment if it is stolen and reported within 24 hours.</p>
+            <h4>Who can be covered under?</h4>
+            <p>Coverage is limited to:</p>
+            <ul>
+              <li>Australian residents from eighteen (18) years of age up to and including sixty (60) years of age.</li>
+              <li>Your Policy may be renewed up to and including sixty-two (62) years of age.</li>
+            </ul>
+            <a class='backtop' href='#content' id='contact'>back to top</a>
+            <h3>1. Who can I contact if I have questions?</h3>
+            <p>We’ve simplified our contact points so you can easily get in touch with us.</p>
+            <table class='table table-striped'>
+              <tbody>
+                <tr>
+                  <td class='text-left'>
+                    <strong>Policy questions and coverage</strong>
+                    <br>
+                    Any questions, just call or email.
+                  </td>
+                  <td class='text-left'>
+                    1300 788 463
+                    <br>
+                    <a href='mailto:help@devicecover.com.au'>help@devicecover.com.au</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td class='text-left'>
+                    <strong>Cancelling your policy</strong>
+                    <br>
+                    You can cancel your policy at any time.
+                  </td>
+                  <td class='text-left'>
+                    1300 788 463
+                    <br>
+                    <a href='mailto:cancel@devicecover.com.au'>cancel@devicecover.com.au</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td class='text-left'>
+                    <strong>Making a claim</strong>
+                    <br>
+                    Get in touch straight away and we can help.
+                  </td>
+                  <td class='text-left'>
+                    1300 788 463
+                    <br>
+                    <a href='mailto:claims@devicecover.com.au'>claims@devicecover.com.au</a>
+                  </td>
+                </tr>
+                <tr>
+                  <td class='text-left'>
+                    <strong>Making a complaint</strong>
+                    <br>
+                    If you’re not happy...we want to know asap
+                  </td>
+                  <td class='text-left'>
+                    1300 788 463
+                    <br>
+                    <a href='mailto:complaints@devicecover.com.au'>complaints@devicecover.com.au</a>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <a class='backtop' href='#content' id='about-insurer'>back to top</a>
+            <h3>2. About the insurer</h3>
+            <p>
+              <strong>ACE Insurance Limited</strong>
+              (ABN 23 001 642 020, AFS Licence No. 239687)
+              <strong>(ACE)</strong>
+              is the insurer of this product.  In this PDS, “We”, “Us”, “Our” means ACE Insurance Limited.  Our contact details are:
+            </p>
+            <dl>
+              <dt>Head Office:</dt>
+              <dd>28 O’Connell Street, SYDNEY  NSW  2000</dd>
+              <dt>Postal Address:</dt>
+              <dd>GPO Box 4907, SYDNEY  NSW  2001</dd>
+              <dt>Telephone:</dt>
+              <dd>1800 815 675</dd>
+              <dt>Facsimile:</dt>
+              <dd>(02) 9335 3467</dd>
+              <dt>E-mail:</dt>
+              <dd>
+                <a href='mailto:CustomerService.AUNZ@acegroup.com'>CustomerService.AUNZ@acegroup.com</a>
+              </dd>
+            </dl>
+            <p>
+              ACE Group is one of the world’s largest multiline property and casualty insurers. With operations in 54 countries, ACE Group provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance and life insurance to a diverse group of clients. ACE Limited, the parent company of ACE Group, is listed on the New York Stock Exchange (NYSE: ACE) and is a component of the S&P 500 index. ACE, via acquisitions by its predecessor companies, has been present in Australia for over 50 years. ACE’s operation in Australia (ACE Insurance Limited) provides specialised and customised coverages, including Marine, Property, Liability, Energy, Professional Indemnity, Directors & Officers, Financial Lines, Utilities, as well as Accident & Health insurance, to a broad client base. ACE is a major insurer of many of the country’s largest companies. With five branches and 400 staff in Australia, it has a wealth of local expertise backed by its global reach and breadth of resources. More information can be found
+              <a href='http://www.acegroup.com/au'>www.acegroup.com/au.</a>
+            </p>
+            <p>With exceptional underwriting and claims teams, We are committed to excellence, integrity and to providing quality service and insurance products. Around the world, Our clients and brokers can expect the highest level of commitment and service. We focus on Our clients, building strong relationships by offering responsive service, developing innovative products and providing market leadership built on financial strength. ACE has partnered with Lodestar Insurance Pty Ltd (ABN 41 165 643 783) Authorised Representative Number 453262 to issue DeviceCover.</p>
+            <a class='backtop' href='#content' id='about-this-doc'>back to top</a>
+            <h3>3. Information about this Policy Wording and Product Disclosure Statement</h3>
+            <p>This document is a PDS and is also Our insurance Policy Wording.</p>
+            <p>This document contains important information required under the Corporations Act 2001 (Cth) (the Act) and has been prepared to assist You in understanding DeviceCover and making an informed choice about Your insurance requirements. It is up to You to choose the cover You need. It is important that You carefully read and understand this document before making a decision. Other documents may form part of Our Policy Wording and PDS and if they do, We will tell You in the relevant document. In return for You paying Us a premium, as set out in Section 7, We insure You for the Events described in the Policy Wording and PDS, subject to the terms, conditions and exclusions of Your Policy. Please keep this document, Your Policy Schedule and any other documents that We tell You form part of Your Policy in a safe place in case You need to refer to them in the future. Please check these documents to make sure all the information in them is correct. Please let Us know straight away if any alterations are needed or if You change Your address or payment details. For certain types of cover under the Policy, We will require You to provide receipts and other documentary evidence to Us before We pay a claim.</p>
+            <h4>General Insurance Code of Practice</h4>
+            <p>
+              We are a signatory to the General Insurance Code of Practice (the
+              <strong>Code</strong>
+              ).  The Code sets out minimum standards that We will uphold in respect of the products and services that We provide.  Further information about the Code is available at
+              <a href='http://www.codeofpractice.com.au'>www.codeofpractice.com.au</a>
+              and on request.
+            </p>
+            <a class='backtop' href='#content' id='disclosure'>back to top</a>
+            <h3>4. Your duty of disclosure</h3>
+            <h4>What You must tell Us</h4>
+            <p>We will ask You various questions when You apply for cover. When You answer those questions, You must be honest and You have a duty under law to tell Us anything known to You, and which a reasonable person in the circumstances, would include in answer to the question. We will use the answers in deciding whether to insure You, and anyone else to be insured under the Policy, and on what terms. You have this same duty to disclose those matters to Us before You renew, extend, vary or reinstate Your Policy.</p>
+            <h4>If You do not tell us</h4>
+            <p>If You do not answer Our questions in this way, We may reduce Our liability under contract in respect of a claim or refuse to pay a claim, or cancel the Policy. If You answer Our questions fraudulently, We may refuse to pay a claim and treat the Policy as never having commenced.</p>
+            <a class='backtop' href='#content' id='words-special'>back to top</a>
+            <h3>5. Words with special meanings</h3>
+            <p>Throughout this document, certain words begin with capital letters. These words have special meaning and are included in the Definitions, in Section 6 of this Policy Wording and PDS. Please refer to the Definitions for their meaning. Any reference to an Act, legislation or legislative instrument in this document also refers to that Act, legislation or legislative instrument as amended and may be in force from time to time.</p>
+            <a class='backtop' href='#content' id='definitions'>back to top</a>
+            <h3>6. Definitions</h3>
+            <p>Please use this Definitions section to find the meaning of these words throughout this booklet.</p>
+            <p>
+              <strong>Accessories</strong>
+              means the accessories, components, attachments, ear pieces, carry cases or software that have been supplied with, or purchased additionally to, the Equipment, to be used together with the Equipment.
+            </p>
+            <p>
+              <strong>Accidental Injury</strong>
+              means a bodily injury resulting from an accident and which is not an illness and which:
+            </p>
+            <ol class='alpha' type='a'>
+              <li>is caused by violent, external and visible means; and</li>
+              <li>occurs as a result of an accident occurring during Your  Period of Insurance; and</li>
+              <li>results within twelve (12) months of the  accident; and</li>
+              <li>includes Sickness directly resulting from medical or surgical treatment rendered necessary by the Accident; and</li>
+              <li>may include a bodily injury caused by You being directly and unavoidably exposed to the elements as a result of an accident.</li>
+            </ol>
+            <p>
+              <strong>Commencement Date</strong>
+              means the date We agree to provide insurance under the Policy as shown on Your Policy Schedule.
+            </p>
+            <p>
+              <strong>Damage</strong>
+              means destruction of Equipment or failure of Equipment to correctly operate, in each respect caused by sudden or unforeseeable external forces, including dropping, fire and water contact.  Damage does not includes Malicious Damage.
+            </p>
+            <p>
+              <strong>Date of Purchase</strong>
+              shall mean the date of purchaseof the Equipment as new and unused, as stated in the Vendor’s tax invoice.
+            </p>
+            <p>
+              <strong>Doctor</strong>
+              means a legally registered medical practitioner who is not You or Your relative.
+            </p>
+            <p>
+              <strong>Equipment</strong>
+              means the Portable Electronic Device detailed in Your Vendor’s tax invoice and identified by a unique IMEI Number or serial number that has been registered with Us. Equipment does not include Accessories.
+            </p>
+            <p>
+              <strong>IMEI Number</strong>
+              means the International Mobile Equipment Identity Number which is the unique 15 digit number assigned to and recorded on Your Equipment.
+            </p>
+            <p>
+              <strong>Event(s)</strong>
+              means an occurrence that could give rise to a claim for a benefit under Your Policy. Any one occurrence or series of occurrences attributable to one source or originating cause is deemed to be one Event.
+            </p>
+            <p>
+              <strong>Malicious Damage</strong>
+              means deliberate Damage caused to the Equipment by a third party.
+            </p>
+            <p>
+              <strong>Maximum Age</strong>
+              means age sixty-two (62) years.
+            </p>
+            <p>
+              <strong>Period of Insurance</strong>
+              means one (1) calendar year from the Commencement Date or the latest Renewal Date, whichever the later.
+            </p>
+            <p>
+              <strong>Permanent Employment</strong>
+              means:
+            </p>
+            <ol class='alpha' type='a'>
+              <li>in the case of an employee, Your permanent regular employment of no less than twenty (20) hours per week in continual, and gainful employment for salary or wages that does not include seasonal, intermittent or a specified period of contract work; or</li>
+              <li>Self-Employment that does not include seasonal, intermittent or a specified period of contract work.</li>
+            </ol>
+            <p>
+              <strong>Policy</strong>
+              means Your Policy Wording and Product Disclosure Statement (PDS), Policy Schedule and any other document that We tell You forms part of Your Policy describing the insurance contract between You and Us.
+            </p>
+            <p>
+              <strong>Policy Schedule</strong>
+              means the document We send You which contains details of the cover provided to You by Us.
+            </p>
+            <p>
+              <strong>Policy Wording</strong>
+              means this document.
+            </p>
+            <p>
+              <strong>Portable Electronic Device</strong>
+              means a mobile phone, laptop, tablet, portable game device such as PSP, or Kindle which, in each case, is no older than three (3) months from its original Date of Purchase.
+            </p>
+            <p>
+              <strong>Pre-Existing Medical Condition</strong>
+              means:
+            </p>
+            <ol class='alpha' type='a'>
+              <li>any condition for which a Doctor was consulted or for which treatment or medication was prescribed prior to the Commencement Date; or</li>
+              <li>a condition, the manifestation or symptoms of which a reasonable person in the circumstances would be expected to be aware of at the Commencement Date.</li>
+            </ol>
+            <p>Where an Upgrade is the addition of a Spouse/Partner, all references in this definition to Commencement Date should be read as being Upgrade Effective Date in relation to the Spouse/Partner.</p>
+            <p>
+              <strong>Product Disclosure Statement (PDS)</strong>
+              means this document.
+            </p>
+            <p>
+              <strong>Renewal Date</strong>
+              means one (1) year from the Commencement Date and subsequent anniversaries of that date.
+            </p>
+            <p>
+              <strong>Sickness</strong>
+              means any illness or disease first manifesting itself during the Period of Insurance shown on Your Policy Schedule, and which is diagnosed by a Doctor.
+            </p>
+            <p>
+              <strong>Spouse/Partner</strong>
+              means the person named as Spouse/Partner on the Policy Schedule and who must be the Main Insured’s husband or wife, de-facto or life partner (including a same sex partner) with whom the Main Insured has continuously cohabited for a period of three (3) months or more.
+            </p>
+            <p>
+              <strong>Theft</strong>
+              means the dishonest appropriation of Equipment belonging to You with the intention of permanently depriving You of that Equipment. Unattended shall mean where You are not in a position to prevent the Theft or Damage to the Equipment.
+            </p>
+            <p>
+              <strong>Upgrade</strong>
+              means an increase in a level of benefit.
+            </p>
+            <p>
+              <strong>Upgrade Effective Date</strong>
+              means the date We agree to provide an Upgrade of Your Policy & which is shown on Your Policy Schedule recording an Upgrade.
+            </p>
+            <p>
+              <strong>Vendor</strong>
+              shall mean the store/company You purchased the Equipment from.
+            </p>
+            <p>
+              <strong>Waiting Period</strong>
+              means the thirty (30) day period of time for and in respect of which no benefits are payable.
+            </p>
+            <p>
+              <strong>We/Us/Our</strong>
+              means the insurer ACE Insurance Limited (ABN 23 001 642 020, AFS Licence No. 239687).
+            </p>
+            <p>
+              <strong>You/Your</strong>
+              means the person who is named as the insured on the Policy Schedule in respect of whom premium has been paid or agreed to be paid.
+            </p>
+            <a class='backtop' href='#content' id='selecting-cover'>back to top</a>
+            <h3>7. Selecting your cover</h3>
+            <p>Certain eligibility criteria apply.  We tell You when You apply whether You meet this criteria e.g.</p>
+            <ul>
+              <li>You must be at least eighteen (18) years old when You apply.</li>
+              <li>You must not be over sixty (60) years of age when You apply, with renewal to sixty-two (62) years of age.</li>
+              <li>You must be an Australian resident.</li>
+            </ul>
+            <p>You will need to select the level of cover based on the value of Your Equipment (as evidence by the Vendor’s tax invoice) in accordance with the following table:</p>
+            <table class='table table-striped'>
+              <thead>
+                <tr>
+                  <th>LEVEL OF COVER</th>
+                  <th>
+                    VALUE OF EQUIPMENT
+                    <span>(as evidenced by Vendor’s tax invoice)</span>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class='text-left'>1. Mini</td>
+                  <td>up to $500</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>2. Classic</td>
+                  <td>up to $1,000</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>3. Smart</td>
+                  <td>up to $1,500</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>4. Business</td>
+                  <td>up to $2,500</td>
+                </tr>
+              </tbody>
+            </table>
+            <p>You should decide whether to select cover under the Optional Additional Theft Benefit.  You will also need to register Your Portable Electronic Device with Us when You apply for DeviceCover, by telling us the IMEI Number or the serial number applicable to Your Portable Electronic Device.</p>
+            <a class='backtop' href='#content' id='benefits'>back to top</a>
+            <h3>8. Benefits &amp Premiums</h3>
+            <p>A detailed description of the cover is set out below in the Summary of Benefits table. The cover provided is subject to the terms, conditions and exclusions contained in this Policy document. Please note that other documents that make up the Policy, such as the Policy Schedule, may amend the standard terms, conditions and exclusions contained in this Policy document. A Summary of Benefits table will be provided to You in Your Policy Schedule, summarising the benefits covered under Your Policy, and the benefit limits applicable under Your Policy.</p>
+            <h3>Summary of Benefits</h3>
+            <p>The following Summary of Benefits Table summarises the benefits available under DeviceCover and can be used as a quick reference tool. The benefit limits vary according to the level of cover.</p>
+            <table class='table table-striped'>
+              <thead>
+                <tr>
+                  <th>LEVEL OF COVER</th>
+                  <th>
+                    1
+                    <span>(MINI)</span>
+                  </th>
+                  <th>
+                    2
+                    <span>(CLASSIC)</span>
+                  </th>
+                  <th>
+                    3
+                    <span>(SMART)</span>
+                  </th>
+                  <th>
+                    4
+                    <span>(BUSINESS)</span>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class='text-left' colspan='5'>
+                    <strong>Equipment and Accessories Benefits</strong>
+                  </td>
+                </tr>
+                <tr>
+                  <td class='text-left'>Accidental Damage to Equipment</td>
+                  <td>The value of the Equipment, up to $500</td>
+                  <td>The value of the Equipment, up to $1,000</td>
+                  <td>The value of the Equipment, up to $1,500</td>
+                  <td>The value of the Equipment, up to $2,000</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>Accessories</td>
+                  <td colspan='4'>The value of the Accessories, up to $400</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>Unauthorised Calls made on Your Equipment</td>
+                  <td colspan='4'>The value of the unauthorised calls, up to $100</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>Worldwide cover</td>
+                  <td colspan='4'>Covers use of the device outside of Australia for a maximum of 60 days</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>
+                    <strong>Optional Benefit:</strong>
+                    Loss or Theft of Equipment
+                  </td>
+                  <td>The value of the Equipment, up to $500</td>
+                  <td>The value of the Equipment, up to $1,000</td>
+                  <td>The value of the Equipment, up to $1,500</td>
+                  <td>The value of the Equipment, up to $2,000</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>
+                    <strong>Accidental Injury or Sickness Benefit</strong>
+                  </td>
+                  <td colspan='4'>$100 per month, up to a maximum of six months</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>
+                    <strong>Excess Payable by You per Claim</strong>
+                  </td>
+                  <td>$100</td>
+                  <td>$150</td>
+                  <td>$175</td>
+                  <td>$200</td>
+                </tr>
+              </tbody>
+            </table>
+            <h3>Equipment and Accessories Benefits</h3>
+            <h4>Accidental damage to Equipment</h4>
+            <p>If Your Equipment is Damaged during the Period of Insurance, We will pay the cost of replacing or repairing Your Equipment up to the amount stated on Your Policy Schedule for this benefit.</p>
+            <h4>Accessories</h4>
+            <p>In the event of Damage to or Theft of Your Device during the Period of Insurance, we will pay You the value of the Accessories in the event of Damage to or Theft of, up to the amount stated on Your Policy Schedule for this benefit.</p>
+            <h4>Unauthorised calls made on your Equipment</h4>
+            <p>If unauthorised calls are made on Your Equipment following the unintentional loss or Theft of your Equipment during the Period of Insurance, We will pay You the cost of those unauthorised calls up to the amount stated on Your Policy Schedule for this benefit.  To be eligible to make a claim under this benefit, You must report the loss or Theft of your Equipment to the account provider of the Equipment within 24 hours of the loss or Theft.</p>
+            <h4>Worldwide cover</h4>
+            <p>Cover is extended to include the use of the device anywhere in the world for up to a maximum of 60 consecutive days of being outside of Australia or New Zealand, in any single 12-month period.</p>
+            <h4>Optional Benefit - Loss or Theft of Equipment</h4>
+            <p>If You elect to be covered under the Optional Additional Benefit – Loss or Theft of Equipment, if We pay a claim under the Loss or Theft of Equipment benefit, we will also pay You the amount stated on Your Policy Schedule for this benefit.</p>
+            <h4>Condition applicable to the Equipment and Accessories Benefits</h4>
+            <ol>
+              <li>You must not use Your Equipment outside Australia or New Zealand for more than sixty (60) consecutive days.  If You do not comply with this condition and You suffer a loss in relation to that Equipment whilst You are outside Australia or New Zealand, We will not pay a claim under Your Policy in relation to that Equipment.</li>
+              <li>In the event of the Theft of Your Equipment, You must notify the Police Service within 24 hours of the Theft.</li>
+            </ol>
+            <h4>Accidental Injury or Sickness Benefit</h4>
+            <p>If You:</p>
+            <ol class='alpha' type='a'>
+              <li>have suffered an Accidental Injury or Sickness which entirely prevents You from engaging in Your Permanent Employment for more than thirty (30) consecutive days; and</li>
+              <li>were in Permanent Employment immediately prior to that Accidental Injury or manifestation of the Sickness; and</li>
+              <li>remain under the continuous care and follow the advice of a Doctor,</li>
+            </ol>
+            <p>We will pay You the Accidental Injury or Sickness Benefit shown on Your Policy Schedule current at the time of the accident causing the Accidental Injury or manifestation of the Sickness and you are entirely prevented from engaging in Your Permanent Employment. We will start the payment of benefits after the Waiting Period ends.  Payments for the Accidental Injury or Sickness Benefit will cease when:</p>
+            <ol class='alpha' type='a'>
+              <li>You return to work; or</li>
+              <li>We have made six (6) monthly benefit payments for the Accidental Injury or Sickness Benefit, in the aggregate in any one (1) Period of Insurance; whichever occurs first.</li>
+            </ol>
+            <p>There is a thirty (30) day Waiting Period applicable to the Accidental Injury or Sickness Benefit commencing on the date You are unable to engage in Your Permanent Employment. If You have returned to Your Permanent Employment within three (3) months of the date of Your original Accidental Injury or manifestation of Your Sickness and, as a result of Your original Accidental Injury or Sickness, You are again prevented from engaging in Your Permanent Employment, this will be deemed one (1) Event and the thirty (30) day Waiting Period will not apply.</p>
+            <h4>Premiums</h4>
+            <p>We take a number of factors into account when calculating Your premium which could include the risk profile and the level of cover You have selected. Your premium is paid in advance and includes any amounts payable that take into account Our obligation (actual or estimated) to pay any relevant compulsory government charges, taxes, levies (including stamp duty and GST) in relation to the Policy. We will tell You, when You apply, what premium is payable, when it needs to be paid and how it can be paid. If You will be paying Your premium by instalment payments and an instalment remains unpaid for at least fourteen (14) days, We may refuse to pay a claim arising after the instalment was due. If an instalment remains unpaid for thirty-one (31) days, Your Policy will be automatically cancelled without written notice from Us to You unless We elect to cancel earlier by providing You with written notice. We may change Your premium from the Renewal Date if We notify You of the change in writing prior to that date.</p>
+            <table class='table table-striped'>
+              <thead>
+                <tr>
+                  <th>LEVEL OF COVER</th>
+                  <th>
+                    VALUE OF EQUIPMENT
+                    <span>(as evidenced by Vendor’s tax invoice)</span>
+                  </th>
+                  <th>
+                    MONTHLY PREMIUM PAYABLE
+                  </th>
+                  <th>
+                    ADDITIONAL MONTHLY PREMIUM PAYABLE UNDER THE OPTIONAL BENEFIT - LOSS OR THEFT OF EQUIPMENT
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td class='text-left'>1. Mini</td>
+                  <td>up to $500</td>
+                  <td>$8</td>
+                  <td>$2</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>2. Classic</td>
+                  <td>up to $1,000</td>
+                  <td>$11</td>
+                  <td>$4.50</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>3. Smart</td>
+                  <td>up to $1,500</td>
+                  <td>$12</td>
+                  <td>$6</td>
+                </tr>
+                <tr>
+                  <td class='text-left'>4. Business</td>
+                  <td>up to $2,500</td>
+                  <td>$17</td>
+                  <td>$12</td>
+                </tr>
+              </tbody>
+            </table>
+            <a class='backtop' href='#content' id='general'>back to top</a>
+            <h3>9. General conditions</h3>
+            <h4>Commencement and Period of Your Policy</h4>
+            <p>Your Policy begins on the Commencement Date or on the latest Renewal Date, whichever is the later, and continues for one (1) calendar year (being the Period of Insurance) after which time it expires, or until it is cancelled.</p>
+            <h4>Renewal of Your Policy</h4>
+            <p>This insurance may be renewed for further consecutive yearly periods upon payment of the premium. Payment of Your premium is deemed to be acceptance of an offer of renewal for a further yearly period. If You continue to pay Your premium, then unless Your Policy is cancelled or We advise You prior to the Renewal Date that We will be updating Your policy or not be renewing, a policy on the same terms and conditions automatically comes in to existence for one (1) year from the Renewal Date.</p>
+            <h4>Expiry of Your Policy</h4>
+            <p>Your Policy expires at the end of the Period of Insurance. We may decide not to renew Your Policy. If We decide not to renew Your Policy, We will send You an expiry notice at least fourteen (14) days before the expiry of Your Policy. If Your Policy is cancelled or otherwise terminated, the Period of Insurance will be from the Commencement Date or Renewal Date, whichever is the later, up to and including the date of cancellation or termination.</p>
+            <h4>Significant tax implications</h4>
+            <p>Generally, Your premiums are not tax deductible and claims payments are not assessable income for tax purposes unless You purchase Your policy for business purposes. This tax information is a general statement only. See Your tax adviser for information about Your personal circumstances.</p>
+            <h4>Australian Law</h4>
+            <p>You must be an Australian resident to be covered by this Policy unless specifically agreed otherwise by Us. You must notify Us If You are no longer an Australian resident during the Period of Insurance.</p>
+            <p>Your Policy is governed by the laws of the State or Territory of Australia in which You normally reside and any disputes in connection with Your Policy will be conducted in their courts.</p>
+            <h4>Australian Currency</h4>
+            <p>All payments by You to Us and Us to You or someone else under Your Policy must be in Australian currency.</p>
+            <h4>Maximum of 3 claims per policy period</h4>
+            <p>There is a limit of three (3) claims within your Period of Insurance.</p>
+            <a class='backtop' href='#content' id='exclusions'>back to top</a>
+            <h3>10. Exclusions</h3>
+            <p>
+              <strong>The following exclusions apply specifically to the Equipment and Benefits under this Policy:</strong>
+            </p>
+            <p>The following exclusions apply specifically to the Equipment and Benefits under this Policy:</p>
+            <ol>
+              <li>
+                For any loss, Theft or Damage of Your Equipment caused by or arising from:
+                <ol type='i'>
+                  <li>Cosmetic Damage including scratching or chipping of paintwork or polished surfaces, or any other Damage that does not affect the proper operation of the Equipment.</li>
+                  <li>normal wear and tear, including rusting or oxidation or Damage that is not attributable to a sudden unforeseen event.</li>
+                  <li>Any Claim for batteries, chargers, headphones or similar items that were supplied with the Equipment unless such item is Damaged or Stolen as part of the same event that leads to a Claim for the Equipment.</li>
+                  <li>Any costs for which the manufacturer, supplier or distributor are liable in accordance with their standard contractual obligations, including the relevant manufacturer’s guarantee or warranty.</li>
+                  <li>A sudden unforeseeable internal mechanical or electronic defect causing the actual breaking or burning out of a part causing the failure of the Equipment to operate as intended by the manufacturer;</li>
+                  <li>Any Damage caused by breach of the manufacturer’s operating or guidance instructions and any Damage resulting from alterations, tampering, maintenance, servicing, inspection, repair, restoration, installation, cleaning or faulty or defective design.</li>
+                  <li>Any expense incurred as a result of not being able to use the Equipment or for the restoration of data stored on the Equipment or within the SIM card. Also, for any loss of use or reconnection costs or subscription fees.</li>
+                  <li>Any Damage or Theft caused by a wilful act or gross negligence by You or by anyone authorised by You to use the Equipment.</li>
+                  <li>Damage caused by incorrect installation, faulty software or a virus. For the purpose of this exclusion a virus is any program or software which prevents Your Equipment’s operating system software working properly or at all.</li>
+                  <li>Any Damage or Theft arising as a result of or during any unlawful act committed or attempted by You or by anyone authorised by You to use the Equipment.</li>
+                  <li>If the IMEI number cannot be identified and the nature of the event does not substantiate destruction of the IMEI number.</li>
+                  <li>any Damage where You cannot present the Damaged Equipment.</li>
+                  <li>Damage caused as a result of any competitive sports activity</li>
+                  <li>Any loss or unexplained disappearance or misplacing of Your Equipment</li>
+                  <li>Any Damage to the Equipment for which repair to the Equipment has not been undertaken by an authorised repairer.</li>
+                  <li>Theft from any property not accompanied by evidence of forced entry or exit.</li>
+                  <li>Theft from a vehicle unless forced entry to the vehicle is evident and Your Equipment has been secured in either the glove box or car boot. Proof will be requested that the vehicle has been forcibly entered;</li>
+                  <li>Theft  of Your Equipment deliberately left away from Your person, unless reasonable precautions were taken to protect Your Equipment;</li>
+                  <li>Any Theft or Malicious Damage of Your Equipment not reported to the Administrator and to the Police within 3 days after discovery unless extenuating circumstances apply;</li>
+                  <li>Any Accidental Damage of Your Equipment not reported to the Administrator within 14 days after discovery, unless extenuating circumstances apply;</li>
+                  <li>Acts of God (including fire, flood, earthquake, storm, hurricane or other natural disaster), war, invasion, act of foreign enemy hostilities (whether war be declared or not), civil war, rebellion, revolution, insurrection, or military or usurped power, nationalisation, confiscation, requisition, seizure or destruction by the government or any public authority</li>
+                  <li>Ionising radiations or contamination by the radioactivity from any nuclear waste from the combustion of nuclear fuel or the radioactive toxic explosive or other hazardous properties of any explosive nuclear assembly or nuclear component thereof</li>
+                  <li>Pressure waves caused by aircraft or other aerial devices travelling at sonic or supersonic speeds</li>
+                  <li>Terrorism, regardless of any other cause or event contributing concurrently or in any other sequence to the loss. For the purpose of this exclusion, terrorism means any act including but not limited to the use of force or violence or the threat thereof of any person or group of persons whether acting alone or on behalf of or in connection with any organisation or government committed for political, religious, ideological or similar purposes including the intention to influence any government or to put the public or any section of the public in fear.</li>
+                </ol>
+              </li>
+              <li>If Your Policy was not purchased within three (3) months from date of purchase of Your Equipment as new and unused.</li>
+              <li>For any consequential loss of any nature whatsoever other than as expressly provided for under the Policy benefits.</li>
+            </ol>
+            <p>
+              <strong>The following exclusions apply specifically to the Accidental Injury and Sickness Benefit under this Policy:</strong>
+            </p>
+            <p>We will not be liable under the Accidental Injury and Sickness Benefit of Your Policy for:</p>
+            <ol>
+              <li>
+                any loss which arises directly or indirectly out of:
+                <ol type='i'>
+                  <li>any mental health disorder, including anxiety disorders, depression, stress, adjustment disorders, eating disorders, emotional or behavioral disorders, disorders related to fatigue including chronic fatigue syndrome, myalgia, drug or alcohol abuse, psychosomatic disorders, or any treatment complications; or</li>
+                  <li>You being under the influence of intoxicating liquor, including having a blood alcohol content over the prescribed legal limit whilst driving, or being under the influence of any other</li>
+                  <li>drug unless it was prescribed by a Doctor and taken in accordance with the Doctor’s advice; or</li>
+                  <li>deliberately self-inflicted injury, suicide or criminal or illegal act; or</li>
+                  <li>You being under the influence of intoxicating liquor, including having a blood alcohol content over the prescribed legal limit whilst driving, or being under the influence of any other drug unless it was prescribed by a Doctor and taken in accordance with the Doctor’s advice; or</li>
+                  <li>You engaging in any professional sport meaning Your livelihood is substantially dependent on income received as a result of Your playing sport; or</li>
+                  <li>You engaging in any motor sports as a rider, driver and/or passenger; or</li>
+                  <li>any consequences of war (whether declared or not), invasion or civil war,</li>
+                  <li>taking part in a riot or civil commotion; or</li>
+                  <li>You being a pilot or crew member of any aircraft, or engaging in any aerial activity except as a passenger in any properly licensed aircraft; or</li>
+                  <li>Pre-Existing Medical Conditions You may have.</li>
+                </ol>
+              </li>
+              <li>any loss which occurs after You have suffered Quadriplegia, Paraplegia or Permanent Loss which is claimable under Your Policy.</li>
+            </ol>
+            <p>
+              <strong>The following general exclusions apply to all benefits under this Policy:</strong>
+            </p>
+            <p>Your Policy will not apply to and We shall not pay benefits with respect to any loss, damage, liability, Event, or injury which arises directly or indirectly out of:</p>
+            <ol>
+              <li>
+                <ol type='i'>
+                  <li>deliberately self-inflicted injury or suicide;</li>
+                  <li>any criminal or illegal act other than Theft of Equipment; or drug unless it was prescribed by a Doctor and taken in accordance with the Doctor’s advice; or</li>
+                  <li>You engaging in any professional sport meaning Your livelihood is substantially dependent on income received as a result of Your playing sport; or</li>
+                  <li>You engaging in any motor sports as a rider, driver and/or a passenger; or</li>
+                  <li>any consequences of war (whether declared or not), invasion or civil war, taking part in a riot or civil commotion; or</li>
+                  <li>You being a pilot or crew member of any aircraft, or engaging in any aerial activity except as a passenger in any properly licensed aircraft; or</li>
+                  <li>any loss which occurs after You exceed the Maximum Age. All cover shall cease upon You exceeding the Maximum Age. This will not prejudice any entitlement to claim benefits which has arisen before You exceeded the Maximum Age.</li>
+                  <li>
+                    Pre-Existing Medical Conditions You may have that:
+                    <ol type='a'>
+                      <li>occurs after You exceed the Maximum Age. All cover shall cease upon You exceeding the Maximum Age. This will not prejudice any entitlement to claim benefits which has arisen before You exceeded the Maximum Age.</li>
+                      <li>occurs after You have received the maximum benefit six (6) monthly payments under the Accidental Injury or Sickness Benefit in any one Period of Insurance.</li>
+                    </ol>
+                  </li>
+                </ol>
+              </li>
+            </ol>
+            <h4>Health Insurance Exclusion</h4>
+            <p>Your Policy does not cover any Event or occurrence which may be deemed as the carrying on of a “Health Insurance Business” as defined under the Private Health Insurance Act 2007 (Cth) nor any benefit which would breach s126 of the Health Insurance Act 1973 (Cth), including the payment of medical expenses in Australia when a Medicare benefit is payable. These are in addition to the general conditions outlined in Section 9.</p>
+            <a class='backtop' href='#content' id='cooling-off'>back to top</a>
+            <h3>11. Cooling off period</h3>
+            <p>You have fourteen (14) days from the date We confirmed, electronically or in writing, that You are covered under Your Policy to decide if the Policy meets Your needs. You may cancel Your Policy simply by calling Us on 1300 788 463 or advising Us in writing within those fourteen (14) days to cancel it. If You do this, We will refund any premiums You have paid during this period. These cooling off rights do not apply if You have made or You are entitled to make a claim during this period.</p>
+            <a class='backtop' href='#content' id='cancellation'>back to top</a>
+            <h3>12. Cancellation of Your Policy</h3>
+            <p>Your Policy may be cancelled in one of two (2) ways:</p>
+            <h4>1. When You can cancel</h4>
+            <p>
+              You can cancel Your Policy at any time by emailing us at
+              <a href='mailto:cancel@devicecover.com.au'>cancel@devicecover.com.au</a>
+              or calling 1300 788 463.
+            </p>
+            <p>If You:</p>
+            <ol class='alpha' type='a'>
+              <li>pay Your premium by instalments and wish to cancel, We will cancel on the date to which You have paid Your premium in advance.</li>
+              <li>do not pay Your premium by instalments, the cancellation will take effect at 4pm Australian Eastern Standard Time on the day We receive Your notice of cancellation. We will refund the premium for Your Policy, less an amount which covers the period for which You were insured. However, We will not refund any premium if We have paid or are obliged to pay a benefit under Your Policy.</li>
+            </ol>
+            <h4>2. When We can cancel</h4>
+            <p>We can cancel Your Policy by giving You written notice to the address on file and in accordance with the Insurance Contracts Act 1984 (Cth), including where You have:</p>
+            <ol class='alpha' type='a'>
+              <li>breached the Duty of Disclosure;</li>
+              <li>breached a provision of Your Policy (including one requiring payment of premium);</li>
+              <li>made a fraudulent claim under any policy of insurance. If We cancel, We will refund the premium for Your Policy less an amount to cover the period for which You were insured.</li>
+            </ol>
+            <p>Undertaken Deception, Fraud and Illegal Use, we may be entitled to avoid this policy or withdraw from it in the event of intentional misrepresentation or deception. as well as in the event that the Equipment is wholly or partly used in the course of, or to facilitate a criminal activity. If a fraudulent Claim is made, entitlements and benefits will be forfeited and information may be forwarded to the police and the prosecuting authorities.</p>
+            <a class='backtop' href='#content' id='claims'>back to top</a>
+            <h3>13. Claims</h3>
+            <p>You should advise Us as soon as possible and within 48 hours of an Event which could lead to a claim.</p>
+            <h4>Your Obligations in case of a Claim</h4>
+            <ol>
+              <li>You must report any Claim to Us using the following telephone number: 1300 788 463. If Your Equipment is Stolen or Lost please inform Us as soon as possible, but at the latest within 3 days of discovering the Theft. If Your Equipment is damaged please tell Us as soon as possible, but at the latest within 14 days. If We request that You need to fill in a Claim form, We will send You one which You need to complete and send back to Us within 30 days.</li>
+              <li>Report any Malicious Damage or Theft to the police or relevant authority within 3 days of discovery and retain documentary evidence, such as a police report, for use in support of your claim.</li>
+              <li>In the event of a Damage Claim, You shall, as far as possible, remove Your SIM-card and delete Your personal data on Your Equipment before sending it to Us.</li>
+              <li>In the event of a Claim, You are obliged to disclose to Us the correct incident reason and the exact cause for the Claim.  When assessing any Claim, We will only consider the first reason and cause giving rise to the Claim and therefore will not consider any subsequent variations to this.</li>
+              <li>If a Claim for Damage is declined by Us, then in the event of any subsequent Claim being reported by You for the Equipment, You shall be required to provide evidence to Us that the Equipment had been repaired by an authorised repairer before the occurrence of the more recent event giving rise to the Claim.</li>
+              <li>If the IMEI or serial number of Your Equipment has not been registered, We will require evidence of the IMEI or serial number in order to proceed with the Claim. Evidence could include the original packaging or delivery note on which the IMEI or serial number is recorded.</li>
+            </ol>
+            <h4>Procedure for making a claim</h4>
+            <p>If You or Your legal representative wishes to make a claim You or they must:</p>
+            <ol class='alpha' type='a'>
+              <li>
+                complete a claim form which is available from Us by calling 1300 788 463 or by lodging online and attach to the claim form
+                <ol type='i'>
+                  <li>any reports that have been obtained from the police, a carrier or other authorities about an accident; and</li>
+                  <li>ii. any other documentary evidence required by Us under Your Policy;</li>
+                </ol>
+              </li>
+              <li>provide Us with the completed claim form and accompanying documents within thirty (30) days of the Event taking place which gives rise to a claim, or as soon as reasonably practical;</li>
+              <li>give Us at Your, or Your legal representative’s, expense all medical and other certificates and evidence required by Us that is reasonably required to assess the claim;</li>
+              <li>help Us to make any recoveries. We have the right to sue any other party in Your name to recover money payable under the Policy or to choose to defend any action brought against You. You must provide reasonable assistance to us.</li>
+            </ol>
+            <p>We may also have You medically examined at Our expense when and as often as We may reasonably require after a claim has been made to determine if Your condition has changed.</p>
+            <h4>Processing and payment of claims</h4>
+            <p>We will settle your claim by either repair, replacement or as a cash settlement payment as per the benefit sections of Your Policy at Our descetion. We will take all reasonable steps to pay a valid claim promptly.</p>
+            <p>If We replace Your Equipment or Accessories, the originals become Our property.</p>
+            <h4>Making claims after Your Policy is cancelled</h4>
+            <p>If Your Policy is cancelled this does not affect Your rights to make a claim under Your Policy if the Event occurred before the date of cancellation.</p>
+            <a class='backtop' href='#content' id='privacy'>back to top</a>
+            <h3>14. Privacy Statement</h3>
+            <p>
+              ACE Insurance Limited (ACE) and Lodestar Insurance Pty Ltd (Lodestar) are committed to protecting your privacy. This document provides you with an overview of how we handle your personal information. ACE’s Privacy Policy can be accessed at
+              <a href='http://www.acegroup.com/au'>www.acegroup.com/au</a>
+              and
+              <a href='https://www.devicecover.com.au/privacy-policy'>www.devicecover.com.au/privacy-policy</a>
+            </p>
+            <h4>Personal Information Handling Practices</h4>
+            <h5>Collection, Use and Disclosure</h5>
+            <p>We collect your personal information (which may include sensitive information) when you are applying for, changing or renewing an insurance policy with us or when we are processing a claim in order to help us properly administrate your insurance proposal, policy or claim. Personal information may be obtained by us directly from you or via a third party such as your insurance intermediary or employer (e.g. in the case of a group insurance policy). When information is provided to us via a third party we use that information on the basis that you have consented or would reasonably expect us to collect your personal information in this way and we take reasonable steps to ensure that you have been made aware of how we handle your personal information. The primary purpose for our collection and use of your personal information is to enable us to provide insurance services to you. Sometimes, we may use your personal information for our marketing campaigns, in relation to new products, services or information that may be of interest to you. We may disclose the information we collect to third parties, including service providers engaged by us to carry out certain business activities on our behalf (such as assessors and call centres in Australia). In some circumstances, in order to provide our services to you, we may need to transfer personal information to other entities within the ACE Group of companies, (such as the regional head offices of ACE located in Singapore, UK or USA) or third parties with whom we, or those other ACE Group entities, have sub-contracted to provide a specific service for us and these may be outside of Australia. In particular, certain business process functions of ACE are performed by a dedicated servicing unit located in the Philippines. Please note that no personal information is disclosed by us to any overseas entity for marketing purposes. In all instances where personal information may be disclosed overseas, in addition to any local data privacy laws, we have measures in place to ensure that those parties hold and use that information in accordance with the consent you have provided and in accordance with our obligations to you under the Privacy Act 1998 (Cth).</p>
+            <h5>Your Choices</h5>
+            <p>In dealing with us, you agree to us using and disclosing your personal information as set out in this statement and our Privacy Policy. This consent remains valid unless you alter or revoke it by giving written notice to our Privacy Officer. However, should you choose to withdraw your consent it is important for you to understand that this may mean we may not be able to provide you or your organisation with insurance or to respond to any claim.</p>
+            <h5>How to Contact Us</h5>
+            <p>
+              If you would like a copy of your personal information, or to correct or update it, please contact our customer relations team on 1300 788 463 or email
+              <a href='mailto:privacy@devicecover.com.au'>privacy@devicecover.com.au.</a>
+            </p>
+            <p>
+              If you have a complaint or would like more information about how we manage your personal information, please review our Privacy Policy for more details or contact the Privacy Officer, ACE Insurance Limited, GPO Box 4907, Sydney NSW 2001, Tel: +61 2 9335 3200 or email
+              <a href='mailto:Privacy.AU@acegroup.com'>Privacy.AU@acegroup.com.</a>
+            </p>
+            <a class='backtop' href='#content' id='complains'>back to top</a>
+            <h3>15. Complaints and Dispute Resolution</h3>
+            <p>
+              ACE and Lodestar take the concerns of its customers very seriously. ACE has detailed complaint handling and dispute resolution procedures that You may access, at no cost to You. To obtain a copy of Our procedures, please contact Us on 1300 788 463 or email
+              <a href='mailto:complaints@devicecover.com.au'>complaints@devicecover.com.au.</a>
+              To assist ACE with Your enquiries, please provide Us with Your claim or policy number (if applicable) and as much information You can about the reason for Your complaint or dispute. ACE’s complaints and dispute procedures are as follows:
+            </p>
+            <h4>Stage 1 - Complaint Handling Procedure</h4>
+            <p>If You are dissatisfied with any of ACE’s products or services and You wish to lodge a complaint, please contact Us at:</p>
+            <dl>
+              <dt>Postal address:</dt>
+              <dd>
+                The Complaints Officer -
+                ACE Insurance Limited
+                GPO Box 4907 Sydney NSW 2001
+              </dd>
+              <dt>Telephone:</dt>
+              <dd>1800 815 675</dd>
+              <dt>Facsimile:</dt>
+              <dd>(+61 2) 9335 3467</dd>
+              <dt>Email:</dt>
+              <dd>
+                <a href='mailto:complaints@acegroup.com'>complaints@acegroup.com</a>
+              </dd>
+            </dl>
+            <p>We will respond to Your complaint within fifteen (15) business days, or if further investigation or information is required, We will work with You to agree on reasonable alternative timeframes.</p>
+            <h4>Stage 2 – Dispute Resolution Procedure</h4>
+            <p>If You are dissatisfied with Our response to Your complaint, You may ask that Your complaint be treated as a dispute and referred to ACE’s dispute resolution team at:</p>
+            <dl>
+              <dt>Postal address:</dt>
+              <dd>
+                Internal Dispute Resolution Service -
+                ACE Insurance Limited
+                GPO Box 4907 Sydney NSW 2001
+              </dd>
+              <dt>Telephone:</dt>
+              <dd>(+61 2) 9335 3200</dd>
+              <dt>Facsimile:</dt>
+              <dd>(+61 2) 9335 3467</dd>
+              <dt>Email:</dt>
+              <dd>
+                <a href='mailto:DisputeResolution.AU@acegroup.com'>DisputeResolution.AU@acegroup.com</a>
+              </dd>
+            </dl>
+            <p>We will respond to Your dispute within fifteen (15) business days, or if further investigation or information is required, We will work with You to agree on reasonable alternative timeframes</p>
+            <h4>Stage 3 - External Dispute Resolution</h4>
+            <p>If Your complaint or dispute is not resolved to Your satisfaction or a final response has not been provided within 45 days, You may refer the matter to the Financial Ombudsman Service (FOS) for review. FOS provides a free and independent dispute resolution service for consumers who have general insurance disputes falling within its terms of reference and its contact details are:</p>
+            <dl>
+              <dt>Postal address:</dt>
+              <dd>
+                Financial Ombudsman Service -
+                GPO Box 3, Melbourne VIC 3001
+              </dd>
+              <dt>Telephone:</dt>
+              <dd>1300 780 808</dd>
+              <dt>Facsimile:</dt>
+              <dd>(+61 3) 9613 6399</dd>
+              <dt>E-mail & Web:</dt>
+              <dd>
+                <a href='mailto:info@fos.org.au'>info@fos.org.au</a>
+                &
+                <a href='http://www.fos.org.au'>www.fos.org.au</a>
+              </dd>
+            </dl>
+            <a class='backtop' href='#content' id='compensation'>back to top</a>
+            <h3>16. Financial Claims Scheme and Compensation Arrangements</h3>
+            <p>If Your complaint or dispute is not resolved to Your satisfaction or a final response has not been provided within 45 days, You may refer the matter to the Financial Ombudsman Service (FOS) for review. FOS provides a free and independent dispute resolution service for consumers who have general insurance disputes falling within its terms of reference and its contact details are:</p>
+            <p>Because of this:</p>
+            <ul>
+              <li>
+                the protection provided under the Financial Claims Scheme legislation applies in relation to Us and the Policy. If We were to fail and were unable to meet Our obligations under the Policy, a person entitled to claim under insurance cover under the Policy may be entitled to payment under the Financial Claims Scheme (access to the Scheme is subject to eligibility criteria). Information about the Financial Claims Scheme can be obtained from the APRA website at
+                <a href='http://www.apra.gov.au'>www.apra.gov.au</a>
+                and the APRA hotline on 1300 55 88 49; and
+              </li>
+              <li>
+                We are exempted by the Corporations Act 2001 from the requirement to meet the compensation arrangements Australian financial services licensees must have in place to compensate retail clients for loss or damage suffered because of breaches by the licensee or its representatives of Chapter 7 of that Act. We have compensation arrangements in place that are in accordance with the Insurance Act.
+              </li>
+            </ul>
+            <a class='backtop' href='#content' id='updating'>back to top</a>
+            <h3>17. Updating Our PDS</h3>
+            <p>We may update the information contained in Our PDS when necessary. A paper copy of any updated information is available to You at no cost by calling Us on 1300 788 463.</p>
+            <p>We will issue You with a new PDS or a supplementary PDS where the update is to rectify a misleading or deceptive statement or when an omission is materially adverse from the point of view of a reasonable person deciding whether to buy this product.</p>
+            <a class='backtop' href='#about' id='fsg'>back to top</a>
+            <h2>Financial services guide</h2>
+            <p>
+              <small>
+                <strong>How the money works, and where your money goes.</strong>
+              </small>
+            </p>
+            <p>This is a FSG issued by ACE Insurance Limited (ACE) and Lodestar Insurance Pty Ltd (Lodestar) in relation to DeviceCover.comgeneral insurance products promoted by Lodestar and authorised to be distributed by ACE, and underwritten by ACE.</p>
+            <p>The purpose of this FSG is to help you to make an informed decision about whether to use the financial services ACE and Lodestar can provide to you. It contains information on:</p>
+            <ul>
+              <li>who ACE and Lodestar are and how we can be contacted or given instructions;</li>
+              <li>the services ACE and Lodestar offer to you and how they are provided;</li>
+              <li>how ACE and Lodestar and other relevant persons are remunerated;</li>
+              <li>ACE’s compensation arrangements;</li>
+              <li>our commitment to protecting your privacy;</li>
+              <li>how complaints are dealt with; and</li>
+              <li>other disclosure documents you may also receive.</li>
+            </ul>
+            <h4>Other disclosure documents you may receive</h4>
+            <p>Where required, you will also be given a Product Disclosure Statement (PDS) before or at the time you acquire any product as a retail client. The PDS contains information on the benefits and significant characteristics</p>
+            of the product and is designed to assist you in making an informed decision about whether to buy the product or not. It may be more than one document.
+            <a class='backtop' href='#content' id='about-ace'>back to top</a>
+            <h3>About Ace Insurance Limited (ACE)</h3>
+            <p>ACE is an Australian financial services licensee authorised to deal in and provide advice in relation to general insurance products. ACE’s details are as follows:</p>
+            <dl>
+              <dt>ABN:</dt>
+              <dd>23 001 642 020</dd>
+              <dt>AFS Licence Number:</dt>
+              <dd>239687</dd>
+              <dt>Head Office:</dt>
+              <dd>28 O’Connell Street SYDNEY NSW 2000</dd>
+              <dt>Postal address:</dt>
+              <dd>GPO Box 4907 SYDNEY NSW 2001</dd>
+              <dt>Telephone &amp; Facsimile:</dt>
+              <dd>1800 023 804 & (+61 2) 9335 3467</dd>
+              <dt>E-mail:</dt>
+              <dd>
+                <a href='mailto:devicecover.au@acegroup.com'>devicecover.au@acegroup.com</a>
+              </dd>
+            </dl>
+            <p>ACE is part of the ACE Group of Companies, one of the global leaders in insurance and reinsurance serving a diverse group of clients. Headed by ACE Limited (NYSE: ACE), a component of the Standard & Poor’s 500 stock index, the ACE Group conducts its business on a worldwide basis with operating subsidiaries in more than 50 countries and the authority to do business in 140 jurisdictions.</p>
+            <p>With exceptional underwriting and claims teams, ACE is committed to excellence, integrity and to providing quality service and insurance products.</p>
+            <p>Around the world, ACE’s clients and brokers can expect the highest level of commitment and service. ACE focuses on its clients, building strong relationships by offering responsive service, developing innovative products and providing market leadership built on financial strength.</p>
+            <h4>General Insurance Code of Practice</h4>
+            <p>ACE is a signatory to the General Insurance Code of Practice (the Code). The Code sets out minimum standards that ACE will uphold in respect of the products and services that it provides. Further information about the code is available at www.codeofpractice.com.au and on request.</p>
+            <a class='backtop' href='#content' id='about-us'>back to top</a>
+            <h3>About Lodestar Insurance Pty Ltd (Lodestar)</h3>
+            <p>Lodestar Pty Ltd (ACN 165 643 783 Authorised Representative Number 445843) (Lodestar) has been appointed by ACE as its authorised representative to deal in and provide general advice in relation to DeviceCover.comproducts which are issued and underwritten by ACE.</p>
+            <p>Lodestar’s contact details are as follows:</p>
+            <dl>
+              <dt>Telephone:</dt>
+              <dd>1300 788 463</dd>
+              <dt>E-mail:</dt>
+              <dd>
+                <a href='mailto:help@lodestarinsurance.com.au'>help@lodestarinsurance.com.au</a>
+              </dd>
+              <dt>Web:</dt>
+              <dd>
+                <a href='http://www.lodestarinsurance.com.au'>www.lodestarinsurance.com.au</a>
+              </dd>
+            </dl>
+            <p>ACE has authorised Lodestar to distribute this FSG and to provide the services listed under the heading “How Lodestar provides its services,” on ACE’s behalf. In providing the relevant services, Lodestar does not act on your behalf. ACE is the issuer of the relevant DeviceCover.com.au products that Lodestar promotes, unless ACE or Lodestar tells you otherwise. Lodestar may act for other licensees. If Lodestar offers you financial se¬rvices on behalf of another licensee, it will provide you with a copy of the relevant FSG in relation to those services.</p>
+            <a class='backtop' href='#content' id='services'>back to top</a>
+            <h3>How ACE provides its services</h3>
+            <p>ACE may provide a dealing service, with or without general advice, in relation to the general insurance products that ACE distributes. When ACE issues general insurance products, ACE acts on its own behalf, not yours. In dealing with DeviceCover, ACE will collect information from Lodestar or you to be able to market and issue the product and manage your and ACE’s rights and obligations under the product. ACE will also give you factual information about the product to help you decide whether to buy the DeviceCover.</p>
+            <p>In some cases ACE may also make a general recommendation or give an opinion about DeviceCover which is not based on ACE’s consideration of your individual objectives, financial situation or needs.</p>
+            <p>In providing a general advice service, ACE cannot tell you whether the insurance, or an option within it, is appropriate for you specifically. As a result, you need to consider the appropriateness of any information or general advice ACE gives you, having regard to your objectives, financial situation and needs, before acting on it.  You need to read the relevant policy documentation (including the PDS) to determine if it is suitable for you.</p>
+            <h3>HOW ACE IS PAID FOR ITS SERVICES</h3>
+            <h4>Payment for the services ACE provides</h4>
+            <p>As the issuer of any insurance policy, we will charge you an agreed premium for that product based on a number of factors including your risk profile and circumstances (plus relevant taxes and charges) which we will calculate and provide you with before you buy the product.</p>
+            <h4>Remuneration of our staff</h4>
+            <p>All permanent ACE employees are paid an annual salary.  An annual bonus may be paid in some circumstances, which can be based on performance against sales targets and other performance criteria.</p>
+            <p>All temporary ACE employees receive hourly wages or such wages otherwise agreed for a fixed term or contract.  Performance-based payments may also be paid in some circumstances.</p>
+            <p>ACE employees may also receive other non-monetary benefits such as attendance at business related conferences, study trips, other functions or gift vouchers.</p>
+            <h4>Referral to ACE by third parties</h4>
+            <p>In certain cases, we may have a relationship with a third party who we may pay for referring you to us.  We may pay them a referral fee which is a percentage of the net premium of an insurance policy (which is the total premium payable less GST and Stamp Duty).</p>
+            <p>This referral fee is already incorporated into the premium payable by you and the amount can vary, depending on the type of arrangement we have with the third party and the type of insurance product you purchase.  The amount we pay them includes a reimbursement of expenses they incur in performing their role, for example marketing, postage, telephone, printing and call centre costs.  The referral fee is normally payable to third parties on a monthly or quarterly basis, in arrears.</p>
+            <h4>Further information</h4>
+            <p>You can ask us to give you more particulars of the remuneration or other benefits referred to above within a reasonable period after receiving this FSG and before we provide you with the financial service to which this FSG relates, unless we agree otherwise.</p>
+            <a class='backtop' href='#content' id='services'>back to top</a>
+            <h3>Telemarketing companies renumeration</h3>
+            <p>ACE, with Lodestar’s prior consent, may authorise a number of telemarketing companies to provide services on its behalf for which they receive remuneration from ACE. See below for further details about their remuneration. These services may include an inbound and outbound call centre to assist you in applying for DeviceCover and to answer any general queries you may have aboutDeviceCover.com. The telemarketing companies follow procedures set by ACE and may also provide you with general advice which has been prepared and authorised by ACE and Lodestar. In providing these services, the telemarketing companies act on ACE’s behalf, not yours. The telemarketing companies may also act on behalf of other licensees. For further details, please contact ACE on 1800 023 804.</p>
+            <h4>Remuneration of a telemarketing company’s staff</h4>
+            Depending on the particulars of each telemarketing campaign, a telemarketing company’s employees will receive a salary or a fee which is an hourly rate negotiated with the telemarketing company and may also receive one or more of the following benefits which are based on the employees’ performance against sales targets and other performance criteria:
+            <ul>
+              <li>soft dollar benefits which can include gift vouchers, meals, entertainment such as tickets to sporting events and gifts such as bottles of wine; and/or ;</li>
+              <li>weekly monetary bonuses.</li>
+            </ul>
+            <p>These benefits are paid by the telemarketing company and not ACE. The identity and remuneration of individual operators should not impact the service provided or be material to your decision to enter into an insurance contract with ACE.</p>
+            <h4>Referral to ACE by third parties</h4>
+            <p>In certain cases, we may have a relationship with a third party who we may pay for referring you to us. We may pay them a referral fee which is a percentage of the net premium of an insurance policy (which is the total premium payable less GST, Stamp Duty and Fire Services Levy, where applicable). This referral fee is already incorporated into the premium payable by you and the amount can vary, depending on the type of arrangement we have with the third party and the type of insurance product you purchase. The amount we pay them includes a reimbursement of expenses they incur in performing their role, for example marketing, postage, telephone, printing and call centre costs. The referral fee is normally payable to third parties on a monthly or quarterly basis, in arrears.</p>
+            <a class='backtop' href='#content' id='lodestar'>back to top</a>
+            <h3>How Lodestar provides its services</h3>
+            <p>Lodestar is authorised by ACE to provide you with written financial product advice (general only), which ACE  approves. This advice is provided by way of marketing documents and over the phone. This permits Lodestar to market agreed Lodestar general insurance products. Lodestar is not authorised to provide you with any other financial services under ACE’s AFS licence. In particular, Lodestar is not authorised to provide you with personal advice. This means that Lodestar will not take into account your objectives, financial situation or needs before providing general advice to you.  You will need to consider the appropriateness of any general advice provided by Lodestar in light of your objectives, financial situation and needs.  You need to read the relevant policy documentation (including the PDS) to determine if it is suitable for you. If you think you have received ‘personal advice,’ that is, advice that takes into account your personal situation or needs, please call ACE on 1800 023 804 and ask to speak to the Compliance Manager, as this is not permitted.</p>
+            <a class='backtop' href='#content' id='lodestar-paid'>back to top</a>
+            <h3>How Lodestar is paid for its services</h3>
+            <p>In promoting Lodestar products to you, Lodestar is paid commission by ACE which is a percentage of the net premium of an insurance policy (being a percentage of your total premium payable, less GST, Stamp Duty and other charges). All remuneration and commission is already incorporated into the total premium payable by you and can vary, depending on the type of insurance policy you purchase. All remuneration and commission are normally payable on a monthly basis, in arrears. You can ask ACE to give you more particulars of the remuneration (including commission) or other benefits referred to above within a reasonable period after receiving this FSG and before you are provided with the financial service to which this FSG relates, unless ACE agrees otherwise.</p>
+            <h4>Compensation arrangements</h4>
+            <p>Please refer to the Financial Claims Scheme and Compensation Arrangements section contained within the PDS section of this booklet - DeviceCover Combined Policy Wording and PDS and FSG.</p>
+            <h4>Privacy Statement</h4>
+            <p>Please refer to the Privacy Statement section contained within the PDS section of this booklet - DeviceCover Combined Policy Wording and PDS and FSG.</p>
+            <h4>Complaints and dispute resolution</h4>
+            <p>Please refer to the Complaints and Dispute Resolution section contained with the PDS section of this booklet - DeviceCover Combined Policy Wording and PDS and FSG. This FSG was prepared by ACE and Lodestar on 1st April 2015.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class='about'>
+      <div class='contacts'>
+        <div class='important-contacts'>
+          <div class='underwriter'>
+            <h6>Underwritten by</h6>
+            <p>
+              <a href='http://www.acegroup.com' title='Ace Group'>
+                <img alt="ACE Group" src="/assets/ace-group.png" />
+              </a>
+            </p>
+            <p>
+              <a href='http://instantssl.com/ssl-certificate.html' style='border:none;'>
+                <img alt="SSL Certificate" src="/assets/comodo_secure_113x59_transp.png" />
+              </a>
+            </p>
+            <p>
+              <a href='https://www.braintreegateway.com/merchants/htwrj7hk9vfwnvpc/verified' style='border:none;'>
+                <img alt='Braintree Verified' src='https://braintree-badges.s3.amazonaws.com/07.png' style='border:none'>
+              </a>
+            </p>
+          </div>
+          <div class='contact'>
+            <h6>Contact us</h6>
+            <ul>
+              <li>
+                1300 788 463
+              </li>
+              <li>
+                <a href='mailto:help@devicecover.com'>help@devicecover.com.au</a>
+              </li>
+            </ul>
+          </div>
+          <div class='important'>
+            <h6>Important documents</h6>
+            <ul>
+              <li>
+                <a data-toggle='modal' href='#terms'>Privacy Policy</a>
+              </li>
+              <li>
+                <a data-toggle='modal' href='#refunds'>Refunds Policy</a>
+              </li>
+              <li>
+                <a href='/policy'>Policy Wording</a>
+              </li>
+              <li>
+                <a href='/complaints-procedure'>Complaints</a>
+              </li>
+            </ul>
+          </div>
+          <div class='claim'>
+            <h6>Making a claim</h6>
+            <p>
+              <strong>Get in touch</strong>
+              <br>
+              1300 788 463
+            </p>
+            <ul>
+              <li>
+                <a href='https://devicecover.onlineclaims.com.au/' title='Online Claims'>
+                  Make a claim
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <footer class='terms'>
+          <div class='disclaimer'>
+            <p>
+              Development Insurance is issued and underwritten by ACE Insurance Limited (ABN 23 001 642 020; AFSL 239687) and distributed by  Lodestar Insurance (ABN 41 165 643 783; Authorised Representative Number 445843). This website provides general information only without taking into account your objectives, financial situation or needs. Please read the applicable
+              <a href='/policy'>Product Disclosure Statement (PDS)</a>
+              and
+              <a href='/policy'>Financial Serices Guide (FSG)</a>
+              or by calling 1300 788 463 before deciding to buy Development insurance. Terms, conditions and exclusions apply.
+            </p>
+          </div>
+        </footer>
+      </div>
+    </footer>
+    <div class='modal fade' id='terms'>
+      <div class='modal-dialog'>
+        <div class='modal-dialog'></div>
+        <div class='modal-content'>
+          <div class='modal-header'>
+            <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+              <span aria-hidden='true'>&times;</span>
+              <span class='sr-only'>Close</span>
+            </button>
+            <h3>Privacy policy</h3>
+          </div>
+          <div class='modal-body'>
+            <p>The privacy of your personal information is very important to Lodestar Insurance Pty Ltd ( 'us', 'our' or 'we').</p>
+            <p>This Privacy Policy details how Lodestar collects, uses and protects an individual’s personal information in accordance with our obligations under the Privacy Act 1988 (Cth) (“Privacy Act”).</p>
+            <p>The terms of our Privacy Policy may change from time to time. The current terms will be displayed on the website.</p>
+            <h3>About the Privacy Act</h3>
+            <p>The Federal Government's Privacy Act regulates, via the Australian Privacy Principles, the way private sector organizations can collect, use, keep, secure and disclose personal information.</p>
+            <p>Personal information includes information that can be used to identify an individual e.g name, address, telephone number, age, and details about your devices.</p>
+            <p>The aim of the law is to ensure that private organisations that hold personal information about people, handle that information responsibly. It also gives people some control over the way information about them is handled. For example, it gives individuals the right to know what personal information an organization holds about them and a right to correct that information if it is wrong.</p>
+            <h3>Information Collected</h3>
+            <p>We collect personal information from you that is relevant to providing products and services to you. Where possible, we collect it directly from you.</p>
+            <p>We will only do so with your consent, or otherwise in accordance with the Privacy Act. That consent may be express, or implied, such as when you have been informed verbally, or when you continue a telephone call with our staff, after you have heard a recorded message.</p>
+            <h3>Online Privacy</h3>
+            <p>We may collect some personally identifiable information about you at different times depending on how you choose to access our website.</p>
+            <p>If you submit your e-mail address for a request it will be used to complete that request and send a reply. If you submit your email address for the purpose of purchasing membership on-line, we may also use it to provide you with specific information regarding your merbership products.</p>
+            <p>We may request your e-mail address for the inclusion into a mailing list. If you choose to submit your e-mail address an option to remove this address from our database will be offered to you via e-mail correspondence. All opt-in e-mails sent to the mailing list will comply with the Australian Spam Act.</p>
+            <h3>Use of Cookies</h3>
+            <p>From time to time, we may use data collection devices such as 'cookies' in conjunction with our website. Cookies are commonly used on the internet. They are a small file placed onto a computer by a server. A cookie can later be identified by a server. We may use both 'persistent' and 'session cookies'. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. Although our marketing company manages the information coming from our site on our behalf, we control how that data may and may not be used. Any information that is collected in this way is used in an aggregated form, we do not use it to identify you as an individual.</p>
+            <p>We may use cookies for various purposes such as:</p>
+            <ul>
+              <li>to provide you with better and more customised service and a more effective website</li>
+              <li>collecting anonymous statistical information on things such as how many visitors our sites receive, how those visitors use the sites and were they came from.</li>
+              <li>If you wish, you can configure your browser so it does not accept cookies, but this may affect the functionality of the website.</li>
+            </ul>
+            <h3>Use of Information</h3>
+            <p>We use the personal information we collect to provide quotations and to issue policies. We also use that information to administer your policy, to process any claims you may have and to enhance our relationship with you. In addition we may use the information to provide you with updates of our products and services, and products and services provided by affiliated companies.</p>
+            <h3>Disclosure to Other Parties</h3>
+            <p>The personal information that we collect from you may be disclosed to other parties which are involved with the provision of our products and services to you. Such parties include your repairer and any roadside services providers such as tow truck operators or locksmiths. We may also obtain information about you from some of the above parties. Where you provide us with personal information about other people you must have their consent to do this, and to provide it on their behalf. If not, you must tell us.</p>
+            <p>Personal information may also be provided to our affiliated companies to enable them to offer products and services directly to you.</p>
+            <p>We will also disclose your personal information where the disclosure is required or authorised by or under law. As an example, we may disclose information to government agencies.</p>
+            <p>Any third parties we provide information to, can use or disclose personal information provided to them, only for the specific purpose for which it was provided.</p>
+            <h3>Access to Personal Information</h3>
+            <p>You can request access to the personal information we hold about you. Access will not be denied unless there are exceptional circumstances as allowed for under the Privacy Act. For example, where we are involved in legal proceedings or where the request is frivolous. We may charge a fee for access and if we do, we will advise you of the fee prior to proceeding with the request.</p>
+            <h3>Accuracy of Information</h3>
+            <p>We will take reasonable measures to ensure that the personal information we hold about you is accurate and up to date. If you believe your personal information is not accurate and up to date, please inform us. We will promptly update any information that is incorrect.</p>
+            <h3>Information Security</h3>
+            <p>We will take reasonable precautions to ensure that the personal information that we have about you is protected against any unlawful use or access and is kept safe and secure.</p>
+            <p>While we undertake reasonable steps to protect your personal information, no guarantee can be given that information sent over the internet is always 100% secure. Sending and receiving information over the internet is at the user's own risk, however we will take all reasonable steps to ensure your data security once we receive it.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='modal fade' id='refunds'>
+      <div class='modal-dialog'>
+        <div class='modal-content'>
+          <div class='modal-header'>
+            <button aria-hidden='true' class='close' data-dismiss='modal' type='button'>
+              <span aria-hidden='true'>&times;</span>
+              <span class='sr-only'>Close</span>
+            </button>
+            <h3>Refunds policy</h3>
+          </div>
+          <div class='modal-body'><p>If you are not 100% satisfied with your purchase, within 14 days from the purchase date, we will fully refund the cost of your order.</p></div>
+        </div>
+      </div>
+    </div>
+    <script src="/assets/jquery.js?body=1"></script>
+    <script src="/assets/braintree.js?body=1"></script>
+    <script src="/assets/bootstrap/affix.js?body=1"></script>
+    <script src="/assets/bootstrap/alert.js?body=1"></script>
+    <script src="/assets/bootstrap/button.js?body=1"></script>
+    <script src="/assets/bootstrap/carousel.js?body=1"></script>
+    <script src="/assets/bootstrap/collapse.js?body=1"></script>
+    <script src="/assets/bootstrap/dropdown.js?body=1"></script>
+    <script src="/assets/bootstrap/tab.js?body=1"></script>
+    <script src="/assets/bootstrap/transition.js?body=1"></script>
+    <script src="/assets/bootstrap/scrollspy.js?body=1"></script>
+    <script src="/assets/bootstrap/modal.js?body=1"></script>
+    <script src="/assets/bootstrap/tooltip.js?body=1"></script>
+    <script src="/assets/bootstrap/popover.js?body=1"></script>
+    <script src="/assets/bootstrap-sprockets.js?body=1"></script>
+    <script src="/assets/typed.js?body=1"></script>
+    <script src="/assets/picker.js?body=1"></script>
+    <script src="/assets/picker.date.js?body=1"></script>
+    <script src="/assets/datepicking.js?body=1"></script>
+    <script src="/assets/floating-labels.js?body=1"></script>
+    <script src="/assets/bootstrap-switch.js?body=1"></script>
+    <script src="/assets/switch.js?body=1"></script>
+    <script src="/assets/jquery.nouislider.min.js?body=1"></script>
+    <script src="/assets/bootstrapValidator.js?body=1"></script>
+    <script src="/assets/bootstrap-validate-details.js?body=1"></script>
+    <script src="/assets/bootstrap-validate-sentence.js?body=1"></script>
+    <script src="/assets/blockui.min.js?body=1"></script>
+    <script src="/assets/application.js?body=1"></script>
+    <!-- / intercom widget -->
+    <script>
+      var intercomSettings = {
+        app_id: 'sfusmsgk'
+      };
+      (function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/sfusmsgk';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
+    </script>
+    
+  </body>
+</html>
